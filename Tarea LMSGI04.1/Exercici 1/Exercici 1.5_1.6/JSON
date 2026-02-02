@@ -1,0 +1,40 @@
+{
+    "$schema": "./JSONSchema.json",
+    "cifp": {
+        "alumne": [
+            {
+                "id": 1,
+                "nom": "Adrián",
+                "llinatges": "Díaz García",
+                "data_naixement": "19/07/1987",
+                "correu": "diazoliver151017@gmail.com",
+                "telefon": "605894521",
+                "adreça": "Carrer Castell de Bellver",
+                "data_matricula": "06/10/2025",
+                "curs": "DAW"
+            }
+        ],
+        "professor": [
+            {
+                "id": 21,
+                "nom": "Miguel",
+                "llinatges": "Durán Guerrero",
+                "data_naixement": "15/08/74",
+                "correu": "professor_74@gmail.com",
+                "telefon": "698547123",
+                "adreça": "Calle Desengaño",
+                "data_incorporació": "23/07/2005",
+                "departament": "Informática",
+                "assignatura": [
+                    {
+                    "id_assignatura": 101,
+                    "nom_assignatura": "Llenguatges de marques",
+                    "cicle": "DAW",
+                    "data_inici": "01/09/2025",
+                    "data_final": "30/06/2026"
+                    }
+                ]
+            }
+        ]
+    }
+}
