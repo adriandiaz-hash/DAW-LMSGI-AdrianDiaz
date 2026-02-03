@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cifp SYSTEM "DTD.dtd">
+<cifp>
+    <alumne id="1">
+        <nom>Adrián</nom>
+        <llinatges>Díaz García</llinatges>
+        <data_naixement>19/07/1987</data_naixement>
+        <correu>diazoliver151017@gmail.com</correu>
+        <telefon>605894521</telefon>
+        <adreça>Carrer Castell de Bellver</adreça>
+        <data_matricula>06/10/2025</data_matricula>
+        <curs>DAW</curs>
+    </alumne>
+    <professor id="21">
+        <nom>Miguel</nom>
+        <llinatges>Durán Guerrero</llinatges>
+        <data_naixement>15/08/74</data_naixement>
+        <correu>professor_74@gmail.com</correu>
+        <telefon>698547123</telefon>
+        <adreça>Calle Desengaño</adreça>
+        <data_incorporació>23/07/2005</data_incorporació>
+        <departament>Informática</departament>
+        <assignatura id_assignatura="101">
+            <nom_assignatura cicle="DAW">Llenguatges de marques</nom_assignatura>
+        </assignatura>
+    </professor>
+</cifp>    
