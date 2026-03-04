@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f9; /* Fondo azul muy claro igual que la imagen */
+    margin: 0;
+    padding: 20px;
+}
+
+.page-title {
+    text-align: center;
+    color: #003366;
+    margin-bottom: 30px;
+}
+
+#results {
+    max-width: 1000px; /* Ancho máximo para que no se desmadre en pantallas grandes */
+    margin: 0 auto;
+}
+
+.office-card {
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    border: 1px solid #d1d9e0;
+}
+
+.office-header {
+    background-color: #003b73; /* Azul oscuro */
+    color: white;
+    padding: 15px 20px;
+}
+
+.office-header h2 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.office-body {
+    display: flex;
+    align-items: stretch; /* Para que imagen y tabla ocupen el mismo alto */
+}
+
+.office-image {
+    padding: 15px;
+    flex: 0 0 250px; /* Ancho fijo para la columna de la imagen */
+    display: flex;
+    align-items: center; /* Centra la imagen verticalmente */
+}
+
+.office-image img {
+    width: 100%;
+    border-radius: 4px;
+    display: block;
+}
+
+.office-details {
+    flex: 1; /* Ocupa el resto del espacio disponible */
+}
+
+.details-table {
+    width: 100%;
+    border-collapse: collapse;
+    height: 100%;
+}
+
+.details-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #e0e0e0;
+    border-left: 1px solid #e0e0e0;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+/* Elimina el borde inferior de la última fila */
+.details-table tr:last-child td {
+    border-bottom: none;
+}
+
+.details-table strong {
+    color: #333;
+}
