@@ -1,0 +1,4644 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<payments>
+  <payment>
+    <check number="HQ336336">
+      <customer customerNumber="103">
+        <customerName>Atelier graphique</customerName>
+        <contactLastName>Schmitt</contactLastName>
+        <contactFirstName>Carine </contactFirstName>
+        <phone>40.32.2555</phone>
+        <addressLine1>54, rue Royale</addressLine1>
+        <city>Nantes</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>21000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-10-19</paymentDate>
+      <amount>6066.78</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JM555205">
+      <customer customerNumber="103">
+        <customerName>Atelier graphique</customerName>
+        <contactLastName>Schmitt</contactLastName>
+        <contactFirstName>Carine </contactFirstName>
+        <phone>40.32.2555</phone>
+        <addressLine1>54, rue Royale</addressLine1>
+        <city>Nantes</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>21000.00</creditLimit>
+      </customer>
+      <paymentDate>2003-06-05</paymentDate>
+      <amount>14571.44</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OM314933">
+      <customer customerNumber="103">
+        <customerName>Atelier graphique</customerName>
+        <contactLastName>Schmitt</contactLastName>
+        <contactFirstName>Carine </contactFirstName>
+        <phone>40.32.2555</phone>
+        <addressLine1>54, rue Royale</addressLine1>
+        <city>Nantes</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>21000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-18</paymentDate>
+      <amount>1676.14</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BO864823">
+      <customer customerNumber="112">
+        <customerName>Signal Gift Stores</customerName>
+        <contactLastName>King</contactLastName>
+        <contactFirstName>Jean</contactFirstName>
+        <phone>7025551838</phone>
+        <addressLine1>8489 Strong St.</addressLine1>
+        <city>Las Vegas</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>71800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-17</paymentDate>
+      <amount>14191.12</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HQ55022">
+      <customer customerNumber="112">
+        <customerName>Signal Gift Stores</customerName>
+        <contactLastName>King</contactLastName>
+        <contactFirstName>Jean</contactFirstName>
+        <phone>7025551838</phone>
+        <addressLine1>8489 Strong St.</addressLine1>
+        <city>Las Vegas</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>71800.00</creditLimit>
+      </customer>
+      <paymentDate>2003-06-06</paymentDate>
+      <amount>32641.98</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ND748579">
+      <customer customerNumber="112">
+        <customerName>Signal Gift Stores</customerName>
+        <contactLastName>King</contactLastName>
+        <contactFirstName>Jean</contactFirstName>
+        <phone>7025551838</phone>
+        <addressLine1>8489 Strong St.</addressLine1>
+        <city>Las Vegas</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>71800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-08-20</paymentDate>
+      <amount>33347.88</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GG31455">
+      <customer customerNumber="114">
+        <customerName>Australian Collectors, Co.</customerName>
+        <contactLastName>Ferguson</contactLastName>
+        <contactFirstName>Peter</contactFirstName>
+        <phone>03 9520 4555</phone>
+        <addressLine1>636 St Kilda Road</addressLine1>
+        <city>Melbourne</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>117300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-05-20</paymentDate>
+      <amount>45864.03</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MA765515">
+      <customer customerNumber="114">
+        <customerName>Australian Collectors, Co.</customerName>
+        <contactLastName>Ferguson</contactLastName>
+        <contactFirstName>Peter</contactFirstName>
+        <phone>03 9520 4555</phone>
+        <addressLine1>636 St Kilda Road</addressLine1>
+        <city>Melbourne</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>117300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-15</paymentDate>
+      <amount>82261.22</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NP603840">
+      <customer customerNumber="114">
+        <customerName>Australian Collectors, Co.</customerName>
+        <contactLastName>Ferguson</contactLastName>
+        <contactFirstName>Peter</contactFirstName>
+        <phone>03 9520 4555</phone>
+        <addressLine1>636 St Kilda Road</addressLine1>
+        <city>Melbourne</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>117300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-05-31</paymentDate>
+      <amount>7565.08</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NR27552">
+      <customer customerNumber="114">
+        <customerName>Australian Collectors, Co.</customerName>
+        <contactLastName>Ferguson</contactLastName>
+        <contactFirstName>Peter</contactFirstName>
+        <phone>03 9520 4555</phone>
+        <addressLine1>636 St Kilda Road</addressLine1>
+        <city>Melbourne</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>117300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-03-10</paymentDate>
+      <amount>44894.74</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DB933704">
+      <customer customerNumber="119">
+        <customerName>La Rochelle Gifts</customerName>
+        <contactLastName>Labrune</contactLastName>
+        <contactFirstName>Janine </contactFirstName>
+        <phone>40.67.8555</phone>
+        <addressLine1>67, rue des Cinquante Otages</addressLine1>
+        <city>Nantes</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>118200.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-14</paymentDate>
+      <amount>19501.82</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LN373447">
+      <customer customerNumber="119">
+        <customerName>La Rochelle Gifts</customerName>
+        <contactLastName>Labrune</contactLastName>
+        <contactFirstName>Janine </contactFirstName>
+        <phone>40.67.8555</phone>
+        <addressLine1>67, rue des Cinquante Otages</addressLine1>
+        <city>Nantes</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>118200.00</creditLimit>
+      </customer>
+      <paymentDate>2004-08-08</paymentDate>
+      <amount>47924.19</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NG94694">
+      <customer customerNumber="119">
+        <customerName>La Rochelle Gifts</customerName>
+        <contactLastName>Labrune</contactLastName>
+        <contactFirstName>Janine </contactFirstName>
+        <phone>40.67.8555</phone>
+        <addressLine1>67, rue des Cinquante Otages</addressLine1>
+        <city>Nantes</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>118200.00</creditLimit>
+      </customer>
+      <paymentDate>2005-02-22</paymentDate>
+      <amount>49523.67</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DB889831">
+      <customer customerNumber="121">
+        <customerName>Baane Mini Imports</customerName>
+        <contactLastName>Bergulfsen</contactLastName>
+        <contactFirstName>Jonas </contactFirstName>
+        <phone>07-98 9555</phone>
+        <addressLine1>Erling Skakkes gate 78</addressLine1>
+        <city>Stavern</city>
+        <country>Norway</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>81700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-02-16</paymentDate>
+      <amount>50218.95</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FD317790">
+      <customer customerNumber="121">
+        <customerName>Baane Mini Imports</customerName>
+        <contactLastName>Bergulfsen</contactLastName>
+        <contactFirstName>Jonas </contactFirstName>
+        <phone>07-98 9555</phone>
+        <addressLine1>Erling Skakkes gate 78</addressLine1>
+        <city>Stavern</city>
+        <country>Norway</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>81700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-28</paymentDate>
+      <amount>1491.38</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KI831359">
+      <customer customerNumber="121">
+        <customerName>Baane Mini Imports</customerName>
+        <contactLastName>Bergulfsen</contactLastName>
+        <contactFirstName>Jonas </contactFirstName>
+        <phone>07-98 9555</phone>
+        <addressLine1>Erling Skakkes gate 78</addressLine1>
+        <city>Stavern</city>
+        <country>Norway</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>81700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-04</paymentDate>
+      <amount>17876.32</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MA302151">
+      <customer customerNumber="121">
+        <customerName>Baane Mini Imports</customerName>
+        <contactLastName>Bergulfsen</contactLastName>
+        <contactFirstName>Jonas </contactFirstName>
+        <phone>07-98 9555</phone>
+        <addressLine1>Erling Skakkes gate 78</addressLine1>
+        <city>Stavern</city>
+        <country>Norway</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>81700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-28</paymentDate>
+      <amount>34638.14</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AE215433">
+      <customer customerNumber="124">
+        <customerName>Mini Gifts Distributors Ltd.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Susan</contactFirstName>
+        <phone>4155551450</phone>
+        <addressLine1>5677 Strong St.</addressLine1>
+        <city>San Rafael</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>210500.00</creditLimit>
+      </customer>
+      <paymentDate>2005-03-05</paymentDate>
+      <amount>101244.59</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BG255406">
+      <customer customerNumber="124">
+        <customerName>Mini Gifts Distributors Ltd.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Susan</contactFirstName>
+        <phone>4155551450</phone>
+        <addressLine1>5677 Strong St.</addressLine1>
+        <city>San Rafael</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>210500.00</creditLimit>
+      </customer>
+      <paymentDate>2004-08-28</paymentDate>
+      <amount>85410.87</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CQ287967">
+      <customer customerNumber="124">
+        <customerName>Mini Gifts Distributors Ltd.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Susan</contactFirstName>
+        <phone>4155551450</phone>
+        <addressLine1>5677 Strong St.</addressLine1>
+        <city>San Rafael</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>210500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-04-11</paymentDate>
+      <amount>11044.30</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ET64396">
+      <customer customerNumber="124">
+        <customerName>Mini Gifts Distributors Ltd.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Susan</contactFirstName>
+        <phone>4155551450</phone>
+        <addressLine1>5677 Strong St.</addressLine1>
+        <city>San Rafael</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>210500.00</creditLimit>
+      </customer>
+      <paymentDate>2005-04-16</paymentDate>
+      <amount>83598.04</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HI366474">
+      <customer customerNumber="124">
+        <customerName>Mini Gifts Distributors Ltd.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Susan</contactFirstName>
+        <phone>4155551450</phone>
+        <addressLine1>5677 Strong St.</addressLine1>
+        <city>San Rafael</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>210500.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-27</paymentDate>
+      <amount>47142.70</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HR86578">
+      <customer customerNumber="124">
+        <customerName>Mini Gifts Distributors Ltd.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Susan</contactFirstName>
+        <phone>4155551450</phone>
+        <addressLine1>5677 Strong St.</addressLine1>
+        <city>San Rafael</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>210500.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-02</paymentDate>
+      <amount>55639.66</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KI131716">
+      <customer customerNumber="124">
+        <customerName>Mini Gifts Distributors Ltd.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Susan</contactFirstName>
+        <phone>4155551450</phone>
+        <addressLine1>5677 Strong St.</addressLine1>
+        <city>San Rafael</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>210500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-08-15</paymentDate>
+      <amount>111654.40</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LF217299">
+      <customer customerNumber="124">
+        <customerName>Mini Gifts Distributors Ltd.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Susan</contactFirstName>
+        <phone>4155551450</phone>
+        <addressLine1>5677 Strong St.</addressLine1>
+        <city>San Rafael</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>210500.00</creditLimit>
+      </customer>
+      <paymentDate>2004-03-26</paymentDate>
+      <amount>43369.30</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NT141748">
+      <customer customerNumber="124">
+        <customerName>Mini Gifts Distributors Ltd.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Susan</contactFirstName>
+        <phone>4155551450</phone>
+        <addressLine1>5677 Strong St.</addressLine1>
+        <city>San Rafael</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>210500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-25</paymentDate>
+      <amount>45084.38</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DI925118">
+      <customer customerNumber="128">
+        <customerName>Blauer See Auto, Co.</customerName>
+        <contactLastName>Keitel</contactLastName>
+        <contactFirstName>Roland</contactFirstName>
+        <phone>+49 69 66 90 2555</phone>
+        <addressLine1>Lyonerstr. 34</addressLine1>
+        <city>Frankfurt</city>
+        <country>Germany</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>59700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-01-28</paymentDate>
+      <amount>10549.01</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FA465482">
+      <customer customerNumber="128">
+        <customerName>Blauer See Auto, Co.</customerName>
+        <contactLastName>Keitel</contactLastName>
+        <contactFirstName>Roland</contactFirstName>
+        <phone>+49 69 66 90 2555</phone>
+        <addressLine1>Lyonerstr. 34</addressLine1>
+        <city>Frankfurt</city>
+        <country>Germany</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>59700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-18</paymentDate>
+      <amount>24101.81</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FH668230">
+      <customer customerNumber="128">
+        <customerName>Blauer See Auto, Co.</customerName>
+        <contactLastName>Keitel</contactLastName>
+        <contactFirstName>Roland</contactFirstName>
+        <phone>+49 69 66 90 2555</phone>
+        <addressLine1>Lyonerstr. 34</addressLine1>
+        <city>Frankfurt</city>
+        <country>Germany</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>59700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-03-24</paymentDate>
+      <amount>33820.62</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IP383901">
+      <customer customerNumber="128">
+        <customerName>Blauer See Auto, Co.</customerName>
+        <contactLastName>Keitel</contactLastName>
+        <contactFirstName>Roland</contactFirstName>
+        <phone>+49 69 66 90 2555</phone>
+        <addressLine1>Lyonerstr. 34</addressLine1>
+        <city>Frankfurt</city>
+        <country>Germany</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>59700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-18</paymentDate>
+      <amount>7466.32</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DM826140">
+      <customer customerNumber="129">
+        <customerName>Mini Wheels Co.</customerName>
+        <contactLastName>Murphy</contactLastName>
+        <contactFirstName>Julie</contactFirstName>
+        <phone>6505555787</phone>
+        <addressLine1>5557 North Pendale Street</addressLine1>
+        <city>San Francisco</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>64600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-08</paymentDate>
+      <amount>26248.78</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ID449593">
+      <customer customerNumber="129">
+        <customerName>Mini Wheels Co.</customerName>
+        <contactLastName>Murphy</contactLastName>
+        <contactFirstName>Julie</contactFirstName>
+        <phone>6505555787</phone>
+        <addressLine1>5557 North Pendale Street</addressLine1>
+        <city>San Francisco</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>64600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-11</paymentDate>
+      <amount>23923.93</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PI42991">
+      <customer customerNumber="129">
+        <customerName>Mini Wheels Co.</customerName>
+        <contactLastName>Murphy</contactLastName>
+        <contactFirstName>Julie</contactFirstName>
+        <phone>6505555787</phone>
+        <addressLine1>5557 North Pendale Street</addressLine1>
+        <city>San Francisco</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>64600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-04-09</paymentDate>
+      <amount>16537.85</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CL442705">
+      <customer customerNumber="131">
+        <customerName>Land of Toys Inc.</customerName>
+        <contactLastName>Lee</contactLastName>
+        <contactFirstName>Kwai</contactFirstName>
+        <phone>2125557818</phone>
+        <addressLine1>897 Long Airport Avenue</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>114900.00</creditLimit>
+      </customer>
+      <paymentDate>2003-03-12</paymentDate>
+      <amount>22292.62</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MA724562">
+      <customer customerNumber="131">
+        <customerName>Land of Toys Inc.</customerName>
+        <contactLastName>Lee</contactLastName>
+        <contactFirstName>Kwai</contactFirstName>
+        <phone>2125557818</phone>
+        <addressLine1>897 Long Airport Avenue</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>114900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-02</paymentDate>
+      <amount>50025.35</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NB445135">
+      <customer customerNumber="131">
+        <customerName>Land of Toys Inc.</customerName>
+        <contactLastName>Lee</contactLastName>
+        <contactFirstName>Kwai</contactFirstName>
+        <phone>2125557818</phone>
+        <addressLine1>897 Long Airport Avenue</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>114900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-11</paymentDate>
+      <amount>35321.97</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AU364101">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-07-19</paymentDate>
+      <amount>36251.03</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DB583216">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-01</paymentDate>
+      <amount>36140.38</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DL460618">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2005-05-19</paymentDate>
+      <amount>46895.48</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HJ32686">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-01-30</paymentDate>
+      <amount>59830.55</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ID10962">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-31</paymentDate>
+      <amount>116208.40</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IN446258">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2005-03-25</paymentDate>
+      <amount>65071.26</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JE105477">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2005-03-18</paymentDate>
+      <amount>120166.58</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JN355280">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-26</paymentDate>
+      <amount>49539.37</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JN722010">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-02-25</paymentDate>
+      <amount>40206.20</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KT52578">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-09</paymentDate>
+      <amount>63843.55</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MC46946">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-07-09</paymentDate>
+      <amount>35420.74</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MF629602">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-08-16</paymentDate>
+      <amount>20009.53</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NU627706">
+      <customer customerNumber="141">
+        <customerName>Euro+ Shopping Channel</customerName>
+        <contactLastName>Freyre</contactLastName>
+        <contactFirstName>Diego </contactFirstName>
+        <phone>(91) 555 94 44</phone>
+        <addressLine1>C/ Moralzarzal, 86</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>227600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-05-17</paymentDate>
+      <amount>26155.91</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IR846303">
+      <customer customerNumber="144">
+        <customerName>Volvo Model Replicas, Co</customerName>
+        <contactLastName>Berglund</contactLastName>
+        <contactFirstName>Christina </contactFirstName>
+        <phone>0921-12 3555</phone>
+        <addressLine1>Berguvsvägen  8</addressLine1>
+        <city>Luleå</city>
+        <country>Sweden</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>53100.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-12</paymentDate>
+      <amount>36005.71</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LA685678">
+      <customer customerNumber="144">
+        <customerName>Volvo Model Replicas, Co</customerName>
+        <contactLastName>Berglund</contactLastName>
+        <contactFirstName>Christina </contactFirstName>
+        <phone>0921-12 3555</phone>
+        <addressLine1>Berguvsvägen  8</addressLine1>
+        <city>Luleå</city>
+        <country>Sweden</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>53100.00</creditLimit>
+      </customer>
+      <paymentDate>2003-04-09</paymentDate>
+      <amount>7674.94</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CN328545">
+      <customer customerNumber="145">
+        <customerName>Danish Wholesale Imports</customerName>
+        <contactLastName>Petersen</contactLastName>
+        <contactFirstName>Jytte </contactFirstName>
+        <phone>31 12 3555</phone>
+        <addressLine1>Vinbæltet 34</addressLine1>
+        <city>Kobenhavn</city>
+        <country>Denmark</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>83400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-07-03</paymentDate>
+      <amount>4710.73</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ED39322">
+      <customer customerNumber="145">
+        <customerName>Danish Wholesale Imports</customerName>
+        <contactLastName>Petersen</contactLastName>
+        <contactFirstName>Jytte </contactFirstName>
+        <phone>31 12 3555</phone>
+        <addressLine1>Vinbæltet 34</addressLine1>
+        <city>Kobenhavn</city>
+        <country>Denmark</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>83400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-04-26</paymentDate>
+      <amount>28211.70</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HR182688">
+      <customer customerNumber="145">
+        <customerName>Danish Wholesale Imports</customerName>
+        <contactLastName>Petersen</contactLastName>
+        <contactFirstName>Jytte </contactFirstName>
+        <phone>31 12 3555</phone>
+        <addressLine1>Vinbæltet 34</addressLine1>
+        <city>Kobenhavn</city>
+        <country>Denmark</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>83400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-01</paymentDate>
+      <amount>20564.86</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JJ246391">
+      <customer customerNumber="145">
+        <customerName>Danish Wholesale Imports</customerName>
+        <contactLastName>Petersen</contactLastName>
+        <contactFirstName>Jytte </contactFirstName>
+        <phone>31 12 3555</phone>
+        <addressLine1>Vinbæltet 34</addressLine1>
+        <city>Kobenhavn</city>
+        <country>Denmark</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>83400.00</creditLimit>
+      </customer>
+      <paymentDate>2003-02-20</paymentDate>
+      <amount>53959.21</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FP549817">
+      <customer customerNumber="146">
+        <customerName>Saveley and Henriot, Co.</customerName>
+        <contactLastName>Saveley</contactLastName>
+        <contactFirstName>Mary </contactFirstName>
+        <phone>78.32.5555</phone>
+        <addressLine1>2, rue du Commerce</addressLine1>
+        <city>Lyon</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>123900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-03-18</paymentDate>
+      <amount>40978.53</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FU793410">
+      <customer customerNumber="146">
+        <customerName>Saveley and Henriot, Co.</customerName>
+        <contactLastName>Saveley</contactLastName>
+        <contactFirstName>Mary </contactFirstName>
+        <phone>78.32.5555</phone>
+        <addressLine1>2, rue du Commerce</addressLine1>
+        <city>Lyon</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>123900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-01-16</paymentDate>
+      <amount>49614.72</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LJ160635">
+      <customer customerNumber="146">
+        <customerName>Saveley and Henriot, Co.</customerName>
+        <contactLastName>Saveley</contactLastName>
+        <contactFirstName>Mary </contactFirstName>
+        <phone>78.32.5555</phone>
+        <addressLine1>2, rue du Commerce</addressLine1>
+        <city>Lyon</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>123900.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-10</paymentDate>
+      <amount>39712.10</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BI507030">
+      <customer customerNumber="148">
+        <customerName>Dragon Souveniers, Ltd.</customerName>
+        <contactLastName>Natividad</contactLastName>
+        <contactFirstName>Eric</contactFirstName>
+        <phone>+65 221 7555</phone>
+        <addressLine1>Bronz Sok.</addressLine1>
+        <city>Singapore</city>
+        <country>Singapore</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>103800.00</creditLimit>
+      </customer>
+      <paymentDate>2003-04-22</paymentDate>
+      <amount>44380.15</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DD635282">
+      <customer customerNumber="148">
+        <customerName>Dragon Souveniers, Ltd.</customerName>
+        <contactLastName>Natividad</contactLastName>
+        <contactFirstName>Eric</contactFirstName>
+        <phone>+65 221 7555</phone>
+        <addressLine1>Bronz Sok.</addressLine1>
+        <city>Singapore</city>
+        <country>Singapore</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>103800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-08-11</paymentDate>
+      <amount>2611.84</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KM172879">
+      <customer customerNumber="148">
+        <customerName>Dragon Souveniers, Ltd.</customerName>
+        <contactLastName>Natividad</contactLastName>
+        <contactFirstName>Eric</contactFirstName>
+        <phone>+65 221 7555</phone>
+        <addressLine1>Bronz Sok.</addressLine1>
+        <city>Singapore</city>
+        <country>Singapore</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>103800.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-26</paymentDate>
+      <amount>105743.00</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ME497970">
+      <customer customerNumber="148">
+        <customerName>Dragon Souveniers, Ltd.</customerName>
+        <contactLastName>Natividad</contactLastName>
+        <contactFirstName>Eric</contactFirstName>
+        <phone>+65 221 7555</phone>
+        <addressLine1>Bronz Sok.</addressLine1>
+        <city>Singapore</city>
+        <country>Singapore</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>103800.00</creditLimit>
+      </customer>
+      <paymentDate>2005-03-27</paymentDate>
+      <amount>3516.04</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BF686658">
+      <customer customerNumber="151">
+        <customerName>Muscle Machine Inc</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Jeff</contactFirstName>
+        <phone>2125557413</phone>
+        <addressLine1>4092 Furth Circle</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>138500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-22</paymentDate>
+      <amount>58793.53</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GB852215">
+      <customer customerNumber="151">
+        <customerName>Muscle Machine Inc</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Jeff</contactFirstName>
+        <phone>2125557413</phone>
+        <addressLine1>4092 Furth Circle</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>138500.00</creditLimit>
+      </customer>
+      <paymentDate>2004-07-26</paymentDate>
+      <amount>20314.44</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IP568906">
+      <customer customerNumber="151">
+        <customerName>Muscle Machine Inc</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Jeff</contactFirstName>
+        <phone>2125557413</phone>
+        <addressLine1>4092 Furth Circle</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>138500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-06-18</paymentDate>
+      <amount>58841.35</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KI884577">
+      <customer customerNumber="151">
+        <customerName>Muscle Machine Inc</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Jeff</contactFirstName>
+        <phone>2125557413</phone>
+        <addressLine1>4092 Furth Circle</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>138500.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-14</paymentDate>
+      <amount>39964.63</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HI618861">
+      <customer customerNumber="157">
+        <customerName>Diecast Classics Inc.</customerName>
+        <contactLastName>Leong</contactLastName>
+        <contactFirstName>Kelvin</contactFirstName>
+        <phone>2155551555</phone>
+        <addressLine1>7586 Pompton St.</addressLine1>
+        <city>Allentown</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>100600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-19</paymentDate>
+      <amount>35152.12</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NN711988">
+      <customer customerNumber="157">
+        <customerName>Diecast Classics Inc.</customerName>
+        <contactLastName>Leong</contactLastName>
+        <contactFirstName>Kelvin</contactFirstName>
+        <phone>2155551555</phone>
+        <addressLine1>7586 Pompton St.</addressLine1>
+        <city>Allentown</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>100600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-07</paymentDate>
+      <amount>63357.13</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BR352384">
+      <customer customerNumber="161">
+        <customerName>Technics Stores Inc.</customerName>
+        <contactLastName>Hashimoto</contactLastName>
+        <contactFirstName>Juri</contactFirstName>
+        <phone>6505556809</phone>
+        <addressLine1>9408 Furth Circle</addressLine1>
+        <city>Burlingame</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>84600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-14</paymentDate>
+      <amount>2434.25</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BR478494">
+      <customer customerNumber="161">
+        <customerName>Technics Stores Inc.</customerName>
+        <contactLastName>Hashimoto</contactLastName>
+        <contactFirstName>Juri</contactFirstName>
+        <phone>6505556809</phone>
+        <addressLine1>9408 Furth Circle</addressLine1>
+        <city>Burlingame</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>84600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-18</paymentDate>
+      <amount>50743.65</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KG644125">
+      <customer customerNumber="161">
+        <customerName>Technics Stores Inc.</customerName>
+        <contactLastName>Hashimoto</contactLastName>
+        <contactFirstName>Juri</contactFirstName>
+        <phone>6505556809</phone>
+        <addressLine1>9408 Furth Circle</addressLine1>
+        <city>Burlingame</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>84600.00</creditLimit>
+      </customer>
+      <paymentDate>2005-02-02</paymentDate>
+      <amount>12692.19</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NI908214">
+      <customer customerNumber="161">
+        <customerName>Technics Stores Inc.</customerName>
+        <contactLastName>Hashimoto</contactLastName>
+        <contactFirstName>Juri</contactFirstName>
+        <phone>6505556809</phone>
+        <addressLine1>9408 Furth Circle</addressLine1>
+        <city>Burlingame</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>84600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-08-05</paymentDate>
+      <amount>38675.13</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BQ327613">
+      <customer customerNumber="166">
+        <customerName>Handji Giftsand Co</customerName>
+        <contactLastName>Victorino</contactLastName>
+        <contactFirstName>Wendy</contactFirstName>
+        <phone>+65 224 1555</phone>
+        <addressLine1>106 Linden Road Sandown</addressLine1>
+        <city>Singapore</city>
+        <country>Singapore</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>97900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-16</paymentDate>
+      <amount>38785.48</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DC979307">
+      <customer customerNumber="166">
+        <customerName>Handji Giftsand Co</customerName>
+        <contactLastName>Victorino</contactLastName>
+        <contactFirstName>Wendy</contactFirstName>
+        <phone>+65 224 1555</phone>
+        <addressLine1>106 Linden Road Sandown</addressLine1>
+        <city>Singapore</city>
+        <country>Singapore</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>97900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-07-07</paymentDate>
+      <amount>44160.92</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LA318629">
+      <customer customerNumber="166">
+        <customerName>Handji Giftsand Co</customerName>
+        <contactLastName>Victorino</contactLastName>
+        <contactFirstName>Wendy</contactFirstName>
+        <phone>+65 224 1555</phone>
+        <addressLine1>106 Linden Road Sandown</addressLine1>
+        <city>Singapore</city>
+        <country>Singapore</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>97900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-02-28</paymentDate>
+      <amount>22474.17</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ED743615">
+      <customer customerNumber="167">
+        <customerName>Herkku Gifts</customerName>
+        <contactLastName>Oeztan</contactLastName>
+        <contactFirstName>Veysel</contactFirstName>
+        <phone>+47 2267 3215</phone>
+        <addressLine1>Brehmen St. 121</addressLine1>
+        <city>Bergen</city>
+        <country>Norway  </country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>96800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-19</paymentDate>
+      <amount>12538.01</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GN228846">
+      <customer customerNumber="167">
+        <customerName>Herkku Gifts</customerName>
+        <contactLastName>Oeztan</contactLastName>
+        <contactFirstName>Veysel</contactFirstName>
+        <phone>+47 2267 3215</phone>
+        <addressLine1>Brehmen St. 121</addressLine1>
+        <city>Bergen</city>
+        <country>Norway  </country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>96800.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-03</paymentDate>
+      <amount>85024.46</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GB878038">
+      <customer customerNumber="171">
+        <customerName>Daedalus Designs Imports</customerName>
+        <contactLastName>Rancé</contactLastName>
+        <contactFirstName>Martine </contactFirstName>
+        <phone>20.16.1555</phone>
+        <addressLine1>184, chaussée de Tournai</addressLine1>
+        <city>Lille</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>82900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-03-15</paymentDate>
+      <amount>18997.89</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IL104425">
+      <customer customerNumber="171">
+        <customerName>Daedalus Designs Imports</customerName>
+        <contactLastName>Rancé</contactLastName>
+        <contactFirstName>Martine </contactFirstName>
+        <phone>20.16.1555</phone>
+        <addressLine1>184, chaussée de Tournai</addressLine1>
+        <city>Lille</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>82900.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-22</paymentDate>
+      <amount>42783.81</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AD832091">
+      <customer customerNumber="172">
+        <customerName>La Corne D'abondance, Co.</customerName>
+        <contactLastName>Bertrand</contactLastName>
+        <contactFirstName>Marie</contactFirstName>
+        <phone>(1) 42.34.2555</phone>
+        <addressLine1>265, boulevard Charonne</addressLine1>
+        <city>Paris</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>84300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-09</paymentDate>
+      <amount>1960.80</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CE51751">
+      <customer customerNumber="172">
+        <customerName>La Corne D'abondance, Co.</customerName>
+        <contactLastName>Bertrand</contactLastName>
+        <contactFirstName>Marie</contactFirstName>
+        <phone>(1) 42.34.2555</phone>
+        <addressLine1>265, boulevard Charonne</addressLine1>
+        <city>Paris</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>84300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-04</paymentDate>
+      <amount>51209.58</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="EH208589">
+      <customer customerNumber="172">
+        <customerName>La Corne D'abondance, Co.</customerName>
+        <contactLastName>Bertrand</contactLastName>
+        <contactFirstName>Marie</contactFirstName>
+        <phone>(1) 42.34.2555</phone>
+        <addressLine1>265, boulevard Charonne</addressLine1>
+        <city>Paris</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>84300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-04-20</paymentDate>
+      <amount>33383.14</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GP545698">
+      <customer customerNumber="173">
+        <customerName>Cambridge Collectables Co.</customerName>
+        <contactLastName>Tseng</contactLastName>
+        <contactFirstName>Jerry</contactFirstName>
+        <phone>6175555555</phone>
+        <addressLine1>4658 Baden Av.</addressLine1>
+        <city>Cambridge</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>43400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-05-13</paymentDate>
+      <amount>11843.45</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IG462397">
+      <customer customerNumber="173">
+        <customerName>Cambridge Collectables Co.</customerName>
+        <contactLastName>Tseng</contactLastName>
+        <contactFirstName>Jerry</contactFirstName>
+        <phone>6175555555</phone>
+        <addressLine1>4658 Baden Av.</addressLine1>
+        <city>Cambridge</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>43400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-03-29</paymentDate>
+      <amount>20355.24</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CITI3434344">
+      <customer customerNumber="175">
+        <customerName>Gift Depot Inc.</customerName>
+        <contactLastName>King</contactLastName>
+        <contactFirstName>Julie</contactFirstName>
+        <phone>2035552570</phone>
+        <addressLine1>25593 South Bay Ln.</addressLine1>
+        <city>Bridgewater</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>84300.00</creditLimit>
+      </customer>
+      <paymentDate>2005-05-19</paymentDate>
+      <amount>28500.78</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IO448913">
+      <customer customerNumber="175">
+        <customerName>Gift Depot Inc.</customerName>
+        <contactLastName>King</contactLastName>
+        <contactFirstName>Julie</contactFirstName>
+        <phone>2035552570</phone>
+        <addressLine1>25593 South Bay Ln.</addressLine1>
+        <city>Bridgewater</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>84300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-19</paymentDate>
+      <amount>24879.08</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PI15215">
+      <customer customerNumber="175">
+        <customerName>Gift Depot Inc.</customerName>
+        <contactLastName>King</contactLastName>
+        <contactFirstName>Julie</contactFirstName>
+        <phone>2035552570</phone>
+        <addressLine1>25593 South Bay Ln.</addressLine1>
+        <city>Bridgewater</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>84300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-07-10</paymentDate>
+      <amount>42044.77</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AU750837">
+      <customer customerNumber="177">
+        <customerName>Osaka Souveniers Co.</customerName>
+        <contactLastName>Kentary</contactLastName>
+        <contactFirstName>Mory</contactFirstName>
+        <phone>+81 06 6342 5555</phone>
+        <addressLine1>1-6-20 Dojima</addressLine1>
+        <city>Kita-ku</city>
+        <country>Japan</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>81200.00</creditLimit>
+      </customer>
+      <paymentDate>2004-04-17</paymentDate>
+      <amount>15183.63</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CI381435">
+      <customer customerNumber="177">
+        <customerName>Osaka Souveniers Co.</customerName>
+        <contactLastName>Kentary</contactLastName>
+        <contactFirstName>Mory</contactFirstName>
+        <phone>+81 06 6342 5555</phone>
+        <addressLine1>1-6-20 Dojima</addressLine1>
+        <city>Kita-ku</city>
+        <country>Japan</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>81200.00</creditLimit>
+      </customer>
+      <paymentDate>2004-01-19</paymentDate>
+      <amount>47177.59</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CM564612">
+      <customer customerNumber="181">
+        <customerName>Vitachrome Inc.</customerName>
+        <contactLastName>Frick</contactLastName>
+        <contactFirstName>Michael</contactFirstName>
+        <phone>2125551500</phone>
+        <addressLine1>2678 Kingston Rd.</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>76400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-04-25</paymentDate>
+      <amount>22602.36</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GQ132144">
+      <customer customerNumber="181">
+        <customerName>Vitachrome Inc.</customerName>
+        <contactLastName>Frick</contactLastName>
+        <contactFirstName>Michael</contactFirstName>
+        <phone>2125551500</phone>
+        <addressLine1>2678 Kingston Rd.</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>76400.00</creditLimit>
+      </customer>
+      <paymentDate>2003-01-30</paymentDate>
+      <amount>5494.78</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OH367219">
+      <customer customerNumber="181">
+        <customerName>Vitachrome Inc.</customerName>
+        <contactLastName>Frick</contactLastName>
+        <contactFirstName>Michael</contactFirstName>
+        <phone>2125551500</phone>
+        <addressLine1>2678 Kingston Rd.</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>76400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-16</paymentDate>
+      <amount>44400.50</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AE192287">
+      <customer customerNumber="186">
+        <customerName>Toys of Finland, Co.</customerName>
+        <contactLastName>Karttunen</contactLastName>
+        <contactFirstName>Matti</contactFirstName>
+        <phone>90-224 8555</phone>
+        <addressLine1>Keskuskatu 45</addressLine1>
+        <city>Helsinki</city>
+        <country>Finland</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>96500.00</creditLimit>
+      </customer>
+      <paymentDate>2005-03-10</paymentDate>
+      <amount>23602.90</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AK412714">
+      <customer customerNumber="186">
+        <customerName>Toys of Finland, Co.</customerName>
+        <contactLastName>Karttunen</contactLastName>
+        <contactFirstName>Matti</contactFirstName>
+        <phone>90-224 8555</phone>
+        <addressLine1>Keskuskatu 45</addressLine1>
+        <city>Helsinki</city>
+        <country>Finland</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>96500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-27</paymentDate>
+      <amount>37602.48</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KA602407">
+      <customer customerNumber="186">
+        <customerName>Toys of Finland, Co.</customerName>
+        <contactLastName>Karttunen</contactLastName>
+        <contactFirstName>Matti</contactFirstName>
+        <phone>90-224 8555</phone>
+        <addressLine1>Keskuskatu 45</addressLine1>
+        <city>Helsinki</city>
+        <country>Finland</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>96500.00</creditLimit>
+      </customer>
+      <paymentDate>2004-10-21</paymentDate>
+      <amount>34341.08</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AM968797">
+      <customer customerNumber="187">
+        <customerName>AV Stores, Co.</customerName>
+        <contactLastName>Ashworth</contactLastName>
+        <contactFirstName>Rachel</contactFirstName>
+        <phone>(171) 555-1555</phone>
+        <addressLine1>Fauntleroy Circus</addressLine1>
+        <city>Manchester</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>136800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-03</paymentDate>
+      <amount>52825.29</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BQ39062">
+      <customer customerNumber="187">
+        <customerName>AV Stores, Co.</customerName>
+        <contactLastName>Ashworth</contactLastName>
+        <contactFirstName>Rachel</contactFirstName>
+        <phone>(171) 555-1555</phone>
+        <addressLine1>Fauntleroy Circus</addressLine1>
+        <city>Manchester</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>136800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-08</paymentDate>
+      <amount>47159.11</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KL124726">
+      <customer customerNumber="187">
+        <customerName>AV Stores, Co.</customerName>
+        <contactLastName>Ashworth</contactLastName>
+        <contactFirstName>Rachel</contactFirstName>
+        <phone>(171) 555-1555</phone>
+        <addressLine1>Fauntleroy Circus</addressLine1>
+        <city>Manchester</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>136800.00</creditLimit>
+      </customer>
+      <paymentDate>2003-03-27</paymentDate>
+      <amount>48425.69</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BO711618">
+      <customer customerNumber="189">
+        <customerName>Clover Collections, Co.</customerName>
+        <contactLastName>Cassidy</contactLastName>
+        <contactFirstName>Dean</contactFirstName>
+        <phone>+353 1862 1555</phone>
+        <addressLine1>25 Maiden Lane</addressLine1>
+        <city>Dublin</city>
+        <country>Ireland</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>69400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-10-03</paymentDate>
+      <amount>17359.53</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NM916675">
+      <customer customerNumber="189">
+        <customerName>Clover Collections, Co.</customerName>
+        <contactLastName>Cassidy</contactLastName>
+        <contactFirstName>Dean</contactFirstName>
+        <phone>+353 1862 1555</phone>
+        <addressLine1>25 Maiden Lane</addressLine1>
+        <city>Dublin</city>
+        <country>Ireland</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>69400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-03-01</paymentDate>
+      <amount>32538.74</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FI192930">
+      <customer customerNumber="198">
+        <customerName>Auto-Moto Classics Inc.</customerName>
+        <contactLastName>Taylor</contactLastName>
+        <contactFirstName>Leslie</contactFirstName>
+        <phone>6175558428</phone>
+        <addressLine1>16780 Pompton St.</addressLine1>
+        <city>Brickhaven</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>23000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-06</paymentDate>
+      <amount>9658.74</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HQ920205">
+      <customer customerNumber="198">
+        <customerName>Auto-Moto Classics Inc.</customerName>
+        <contactLastName>Taylor</contactLastName>
+        <contactFirstName>Leslie</contactFirstName>
+        <phone>6175558428</phone>
+        <addressLine1>16780 Pompton St.</addressLine1>
+        <city>Brickhaven</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>23000.00</creditLimit>
+      </customer>
+      <paymentDate>2003-07-06</paymentDate>
+      <amount>6036.96</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IS946883">
+      <customer customerNumber="198">
+        <customerName>Auto-Moto Classics Inc.</customerName>
+        <contactLastName>Taylor</contactLastName>
+        <contactFirstName>Leslie</contactFirstName>
+        <phone>6175558428</phone>
+        <addressLine1>16780 Pompton St.</addressLine1>
+        <city>Brickhaven</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>23000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-21</paymentDate>
+      <amount>5858.56</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DP677013">
+      <customer customerNumber="201">
+        <customerName>UK Collectables, Ltd.</customerName>
+        <contactLastName>Devon</contactLastName>
+        <contactFirstName>Elizabeth</contactFirstName>
+        <phone>(171) 555-2282</phone>
+        <addressLine1>12, Berkeley Gardens Blvd</addressLine1>
+        <city>Liverpool</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>92700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-20</paymentDate>
+      <amount>23908.24</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OO846801">
+      <customer customerNumber="201">
+        <customerName>UK Collectables, Ltd.</customerName>
+        <contactLastName>Devon</contactLastName>
+        <contactFirstName>Elizabeth</contactFirstName>
+        <phone>(171) 555-2282</phone>
+        <addressLine1>12, Berkeley Gardens Blvd</addressLine1>
+        <city>Liverpool</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>92700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-06-15</paymentDate>
+      <amount>37258.94</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HI358554">
+      <customer customerNumber="202">
+        <customerName>Canadian Gift Exchange Network</customerName>
+        <contactLastName>Tamuri</contactLastName>
+        <contactFirstName>Yoshi </contactFirstName>
+        <phone>(604) 555-3392</phone>
+        <addressLine1>1900 Oak St.</addressLine1>
+        <city>Vancouver</city>
+        <country>Canada</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>90300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-18</paymentDate>
+      <amount>36527.61</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IQ627690">
+      <customer customerNumber="202">
+        <customerName>Canadian Gift Exchange Network</customerName>
+        <contactLastName>Tamuri</contactLastName>
+        <contactFirstName>Yoshi </contactFirstName>
+        <phone>(604) 555-3392</phone>
+        <addressLine1>1900 Oak St.</addressLine1>
+        <city>Vancouver</city>
+        <country>Canada</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>90300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-08</paymentDate>
+      <amount>33594.58</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GC697638">
+      <customer customerNumber="204">
+        <customerName>Online Mini Collectables</customerName>
+        <contactLastName>Barajas</contactLastName>
+        <contactFirstName>Miguel</contactFirstName>
+        <phone>6175557555</phone>
+        <addressLine1>7635 Spinnaker Dr.</addressLine1>
+        <city>Brickhaven</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>68700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-08-13</paymentDate>
+      <amount>51152.86</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IS150005">
+      <customer customerNumber="204">
+        <customerName>Online Mini Collectables</customerName>
+        <contactLastName>Barajas</contactLastName>
+        <contactFirstName>Miguel</contactFirstName>
+        <phone>6175557555</phone>
+        <addressLine1>7635 Spinnaker Dr.</addressLine1>
+        <city>Brickhaven</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>68700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-24</paymentDate>
+      <amount>4424.40</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GL756480">
+      <customer customerNumber="205">
+        <customerName>Toys4GrownUps.com</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Julie</contactFirstName>
+        <phone>6265557265</phone>
+        <addressLine1>78934 Hillside Dr.</addressLine1>
+        <city>Pasadena</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>90700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-04</paymentDate>
+      <amount>3879.96</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LL562733">
+      <customer customerNumber="205">
+        <customerName>Toys4GrownUps.com</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Julie</contactFirstName>
+        <phone>6265557265</phone>
+        <addressLine1>78934 Hillside Dr.</addressLine1>
+        <city>Pasadena</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>90700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-09-05</paymentDate>
+      <amount>50342.74</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NM739638">
+      <customer customerNumber="205">
+        <customerName>Toys4GrownUps.com</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Julie</contactFirstName>
+        <phone>6265557265</phone>
+        <addressLine1>78934 Hillside Dr.</addressLine1>
+        <city>Pasadena</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>90700.00</creditLimit>
+      </customer>
+      <paymentDate>2005-02-06</paymentDate>
+      <amount>39580.60</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BOAF82044">
+      <customer customerNumber="209">
+        <customerName>Mini Caravy</customerName>
+        <contactLastName>Citeaux</contactLastName>
+        <contactFirstName>Frédérique </contactFirstName>
+        <phone>88.60.1555</phone>
+        <addressLine1>24, place Kléber</addressLine1>
+        <city>Strasbourg</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>53800.00</creditLimit>
+      </customer>
+      <paymentDate>2005-05-03</paymentDate>
+      <amount>35157.75</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ED520529">
+      <customer customerNumber="209">
+        <customerName>Mini Caravy</customerName>
+        <contactLastName>Citeaux</contactLastName>
+        <contactFirstName>Frédérique </contactFirstName>
+        <phone>88.60.1555</phone>
+        <addressLine1>24, place Kléber</addressLine1>
+        <city>Strasbourg</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>53800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-06-21</paymentDate>
+      <amount>4632.31</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PH785937">
+      <customer customerNumber="209">
+        <customerName>Mini Caravy</customerName>
+        <contactLastName>Citeaux</contactLastName>
+        <contactFirstName>Frédérique </contactFirstName>
+        <phone>88.60.1555</phone>
+        <addressLine1>24, place Kléber</addressLine1>
+        <city>Strasbourg</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>53800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-05-04</paymentDate>
+      <amount>36069.26</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BJ535230">
+      <customer customerNumber="211">
+        <customerName>King Kong Collectables, Co.</customerName>
+        <contactLastName>Gao</contactLastName>
+        <contactFirstName>Mike</contactFirstName>
+        <phone>+852 2251 1555</phone>
+        <addressLine1>Bank of China Tower</addressLine1>
+        <city>Central Hong Kong</city>
+        <country>Hong Kong</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>58600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-09</paymentDate>
+      <amount>45480.79</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BG407567">
+      <customer customerNumber="216">
+        <customerName>Enaco Distributors</customerName>
+        <contactLastName>Saavedra</contactLastName>
+        <contactFirstName>Eduardo </contactFirstName>
+        <phone>(93) 203 4555</phone>
+        <addressLine1>Rambla de Cataluña, 23</addressLine1>
+        <city>Barcelona</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>60300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-05-09</paymentDate>
+      <amount>3101.40</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ML780814">
+      <customer customerNumber="216">
+        <customerName>Enaco Distributors</customerName>
+        <contactLastName>Saavedra</contactLastName>
+        <contactFirstName>Eduardo </contactFirstName>
+        <phone>(93) 203 4555</phone>
+        <addressLine1>Rambla de Cataluña, 23</addressLine1>
+        <city>Barcelona</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>60300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-06</paymentDate>
+      <amount>24945.21</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MM342086">
+      <customer customerNumber="216">
+        <customerName>Enaco Distributors</customerName>
+        <contactLastName>Saavedra</contactLastName>
+        <contactFirstName>Eduardo </contactFirstName>
+        <phone>(93) 203 4555</phone>
+        <addressLine1>Rambla de Cataluña, 23</addressLine1>
+        <city>Barcelona</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>60300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-14</paymentDate>
+      <amount>40473.86</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BN17870">
+      <customer customerNumber="219">
+        <customerName>Boards and Toys Co.</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Mary</contactFirstName>
+        <phone>3105552373</phone>
+        <addressLine1>4097 Douglas Av.</addressLine1>
+        <city>Glendale</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>11000.00</creditLimit>
+      </customer>
+      <paymentDate>2005-03-02</paymentDate>
+      <amount>3452.75</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BR941480">
+      <customer customerNumber="219">
+        <customerName>Boards and Toys Co.</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Mary</contactFirstName>
+        <phone>3105552373</phone>
+        <addressLine1>4097 Douglas Av.</addressLine1>
+        <city>Glendale</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>11000.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-18</paymentDate>
+      <amount>4465.85</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MQ413968">
+      <customer customerNumber="227">
+        <customerName>Heintze Collectables</customerName>
+        <contactLastName>Ibsen</contactLastName>
+        <contactFirstName>Palle</contactFirstName>
+        <phone>86 21 3555</phone>
+        <addressLine1>Smagsloget 45</addressLine1>
+        <city>Århus</city>
+        <country>Denmark</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>120800.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-31</paymentDate>
+      <amount>36164.46</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NU21326">
+      <customer customerNumber="227">
+        <customerName>Heintze Collectables</customerName>
+        <contactLastName>Ibsen</contactLastName>
+        <contactFirstName>Palle</contactFirstName>
+        <phone>86 21 3555</phone>
+        <addressLine1>Smagsloget 45</addressLine1>
+        <city>Århus</city>
+        <country>Denmark</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>120800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-02</paymentDate>
+      <amount>53745.34</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BOFA23232">
+      <customer customerNumber="233">
+        <customerName>Québec Home Shopping Network</customerName>
+        <contactLastName>Fresnière</contactLastName>
+        <contactFirstName>Jean </contactFirstName>
+        <phone>(514) 555-8054</phone>
+        <addressLine1>43 rue St. Laurent</addressLine1>
+        <city>Montréal</city>
+        <country>Canada</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>48700.00</creditLimit>
+      </customer>
+      <paymentDate>2005-05-20</paymentDate>
+      <amount>29070.38</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="II180006">
+      <customer customerNumber="233">
+        <customerName>Québec Home Shopping Network</customerName>
+        <contactLastName>Fresnière</contactLastName>
+        <contactFirstName>Jean </contactFirstName>
+        <phone>(514) 555-8054</phone>
+        <addressLine1>43 rue St. Laurent</addressLine1>
+        <city>Montréal</city>
+        <country>Canada</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>48700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-07-01</paymentDate>
+      <amount>22997.45</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JG981190">
+      <customer customerNumber="233">
+        <customerName>Québec Home Shopping Network</customerName>
+        <contactLastName>Fresnière</contactLastName>
+        <contactFirstName>Jean </contactFirstName>
+        <phone>(514) 555-8054</phone>
+        <addressLine1>43 rue St. Laurent</addressLine1>
+        <city>Montréal</city>
+        <country>Canada</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>48700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-18</paymentDate>
+      <amount>16909.84</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NQ865547">
+      <customer customerNumber="239">
+        <customerName>Collectable Mini Designs Co.</customerName>
+        <contactLastName>Thompson</contactLastName>
+        <contactFirstName>Valarie</contactFirstName>
+        <phone>7605558146</phone>
+        <addressLine1>361 Furth Circle</addressLine1>
+        <city>San Diego</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>105000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-03-15</paymentDate>
+      <amount>80375.24</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IF245157">
+      <customer customerNumber="240">
+        <customerName>giftsbymail.co.uk</customerName>
+        <contactLastName>Bennett</contactLastName>
+        <contactFirstName>Helen </contactFirstName>
+        <phone>(198) 555-8888</phone>
+        <addressLine1>Garden House</addressLine1>
+        <city>Cowes</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>93900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-16</paymentDate>
+      <amount>46788.14</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JO719695">
+      <customer customerNumber="240">
+        <customerName>giftsbymail.co.uk</customerName>
+        <contactLastName>Bennett</contactLastName>
+        <contactFirstName>Helen </contactFirstName>
+        <phone>(198) 555-8888</phone>
+        <addressLine1>Garden House</addressLine1>
+        <city>Cowes</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>93900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-03-28</paymentDate>
+      <amount>24995.61</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AF40894">
+      <customer customerNumber="242">
+        <customerName>Alpha Cognac</customerName>
+        <contactLastName>Roulet</contactLastName>
+        <contactFirstName>Annette </contactFirstName>
+        <phone>61.77.6555</phone>
+        <addressLine1>1 rue Alsace-Lorraine</addressLine1>
+        <city>Toulouse</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>61100.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-22</paymentDate>
+      <amount>33818.34</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HR224331">
+      <customer customerNumber="242">
+        <customerName>Alpha Cognac</customerName>
+        <contactLastName>Roulet</contactLastName>
+        <contactFirstName>Annette </contactFirstName>
+        <phone>61.77.6555</phone>
+        <addressLine1>1 rue Alsace-Lorraine</addressLine1>
+        <city>Toulouse</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>61100.00</creditLimit>
+      </customer>
+      <paymentDate>2005-06-03</paymentDate>
+      <amount>12432.32</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KI744716">
+      <customer customerNumber="242">
+        <customerName>Alpha Cognac</customerName>
+        <contactLastName>Roulet</contactLastName>
+        <contactFirstName>Annette </contactFirstName>
+        <phone>61.77.6555</phone>
+        <addressLine1>1 rue Alsace-Lorraine</addressLine1>
+        <city>Toulouse</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>61100.00</creditLimit>
+      </customer>
+      <paymentDate>2003-07-21</paymentDate>
+      <amount>14232.70</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IJ399820">
+      <customer customerNumber="249">
+        <customerName>Amica Models and Co.</customerName>
+        <contactLastName>Accorti</contactLastName>
+        <contactFirstName>Paolo </contactFirstName>
+        <phone>011-4988555</phone>
+        <addressLine1>Via Monte Bianco 34</addressLine1>
+        <city>Torino</city>
+        <country>Italy</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>113000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-19</paymentDate>
+      <amount>33924.24</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NE404084">
+      <customer customerNumber="249">
+        <customerName>Amica Models and Co.</customerName>
+        <contactLastName>Accorti</contactLastName>
+        <contactFirstName>Paolo </contactFirstName>
+        <phone>011-4988555</phone>
+        <addressLine1>Via Monte Bianco 34</addressLine1>
+        <city>Torino</city>
+        <country>Italy</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>113000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-04</paymentDate>
+      <amount>48298.99</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="EQ12267">
+      <customer customerNumber="250">
+        <customerName>Lyon Souveniers</customerName>
+        <contactLastName>Da Silva</contactLastName>
+        <contactFirstName>Daniel</contactFirstName>
+        <phone>+33 1 46 62 7555</phone>
+        <addressLine1>27 rue du Colonel Pierre Avia</addressLine1>
+        <city>Paris</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>68100.00</creditLimit>
+      </customer>
+      <paymentDate>2005-05-17</paymentDate>
+      <amount>17928.09</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HD284647">
+      <customer customerNumber="250">
+        <customerName>Lyon Souveniers</customerName>
+        <contactLastName>Da Silva</contactLastName>
+        <contactFirstName>Daniel</contactFirstName>
+        <phone>+33 1 46 62 7555</phone>
+        <addressLine1>27 rue du Colonel Pierre Avia</addressLine1>
+        <city>Paris</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>68100.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-30</paymentDate>
+      <amount>26311.63</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HN114306">
+      <customer customerNumber="250">
+        <customerName>Lyon Souveniers</customerName>
+        <contactLastName>Da Silva</contactLastName>
+        <contactFirstName>Daniel</contactFirstName>
+        <phone>+33 1 46 62 7555</phone>
+        <addressLine1>27 rue du Colonel Pierre Avia</addressLine1>
+        <city>Paris</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>68100.00</creditLimit>
+      </customer>
+      <paymentDate>2003-07-18</paymentDate>
+      <amount>23419.47</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="EP227123">
+      <customer customerNumber="256">
+        <customerName>Auto Associés and Cie.</customerName>
+        <contactLastName>Tonini</contactLastName>
+        <contactFirstName>Daniel </contactFirstName>
+        <phone>30.59.8555</phone>
+        <addressLine1>67, avenue de l'Europe</addressLine1>
+        <city>Versailles</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>77900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-02-10</paymentDate>
+      <amount>5759.42</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HE84936">
+      <customer customerNumber="256">
+        <customerName>Auto Associés and Cie.</customerName>
+        <contactLastName>Tonini</contactLastName>
+        <contactFirstName>Daniel </contactFirstName>
+        <phone>30.59.8555</phone>
+        <addressLine1>67, avenue de l'Europe</addressLine1>
+        <city>Versailles</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
+        <creditLimit>77900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-10-22</paymentDate>
+      <amount>53116.99</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="EU280955">
+      <customer customerNumber="259">
+        <customerName>Toms Spezialitäten, Ltd</customerName>
+        <contactLastName>Pfalzheim</contactLastName>
+        <contactFirstName>Henriette </contactFirstName>
+        <phone>0221-5554327</phone>
+        <addressLine1>Mehrheimerstr. 369</addressLine1>
+        <city>Köln</city>
+        <country>Germany</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>120400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-06</paymentDate>
+      <amount>61234.67</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GB361972">
+      <customer customerNumber="259">
+        <customerName>Toms Spezialitäten, Ltd</customerName>
+        <contactLastName>Pfalzheim</contactLastName>
+        <contactFirstName>Henriette </contactFirstName>
+        <phone>0221-5554327</phone>
+        <addressLine1>Mehrheimerstr. 369</addressLine1>
+        <city>Köln</city>
+        <country>Germany</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>120400.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-07</paymentDate>
+      <amount>27988.47</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IO164641">
+      <customer customerNumber="260">
+        <customerName>Royal Canadian Collectables, Ltd.</customerName>
+        <contactLastName>Lincoln</contactLastName>
+        <contactFirstName>Elizabeth </contactFirstName>
+        <phone>(604) 555-4555</phone>
+        <addressLine1>23 Tsawassen Blvd.</addressLine1>
+        <city>Tsawassen</city>
+        <country>Canada</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>89600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-08-30</paymentDate>
+      <amount>37527.58</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NH776924">
+      <customer customerNumber="260">
+        <customerName>Royal Canadian Collectables, Ltd.</customerName>
+        <contactLastName>Lincoln</contactLastName>
+        <contactFirstName>Elizabeth </contactFirstName>
+        <phone>(604) 555-4555</phone>
+        <addressLine1>23 Tsawassen Blvd.</addressLine1>
+        <city>Tsawassen</city>
+        <country>Canada</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>89600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-04-24</paymentDate>
+      <amount>29284.42</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="EM979878">
+      <customer customerNumber="276">
+        <customerName>Anna's Decorations, Ltd</customerName>
+        <contactLastName>O'Hara</contactLastName>
+        <contactFirstName>Anna</contactFirstName>
+        <phone>02 9936 8555</phone>
+        <addressLine1>201 Miller Street</addressLine1>
+        <city>North Sydney</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>107800.00</creditLimit>
+      </customer>
+      <paymentDate>2005-02-09</paymentDate>
+      <amount>27083.78</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KM841847">
+      <customer customerNumber="276">
+        <customerName>Anna's Decorations, Ltd</customerName>
+        <contactLastName>O'Hara</contactLastName>
+        <contactFirstName>Anna</contactFirstName>
+        <phone>02 9936 8555</phone>
+        <addressLine1>201 Miller Street</addressLine1>
+        <city>North Sydney</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>107800.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-13</paymentDate>
+      <amount>38547.19</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LE432182">
+      <customer customerNumber="276">
+        <customerName>Anna's Decorations, Ltd</customerName>
+        <contactLastName>O'Hara</contactLastName>
+        <contactFirstName>Anna</contactFirstName>
+        <phone>02 9936 8555</phone>
+        <addressLine1>201 Miller Street</addressLine1>
+        <city>North Sydney</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>107800.00</creditLimit>
+      </customer>
+      <paymentDate>2003-09-28</paymentDate>
+      <amount>41554.73</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OJ819725">
+      <customer customerNumber="276">
+        <customerName>Anna's Decorations, Ltd</customerName>
+        <contactLastName>O'Hara</contactLastName>
+        <contactFirstName>Anna</contactFirstName>
+        <phone>02 9936 8555</phone>
+        <addressLine1>201 Miller Street</addressLine1>
+        <city>North Sydney</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>107800.00</creditLimit>
+      </customer>
+      <paymentDate>2005-04-30</paymentDate>
+      <amount>29848.52</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BJ483870">
+      <customer customerNumber="278">
+        <customerName>Rovelli Gifts</customerName>
+        <contactLastName>Rovelli</contactLastName>
+        <contactFirstName>Giovanni </contactFirstName>
+        <phone>035-640555</phone>
+        <addressLine1>Via Ludovico il Moro 22</addressLine1>
+        <city>Bergamo</city>
+        <country>Italy</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>119600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-05</paymentDate>
+      <amount>37654.09</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GP636783">
+      <customer customerNumber="278">
+        <customerName>Rovelli Gifts</customerName>
+        <contactLastName>Rovelli</contactLastName>
+        <contactFirstName>Giovanni </contactFirstName>
+        <phone>035-640555</phone>
+        <addressLine1>Via Ludovico il Moro 22</addressLine1>
+        <city>Bergamo</city>
+        <country>Italy</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>119600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-03-02</paymentDate>
+      <amount>52151.81</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NI983021">
+      <customer customerNumber="278">
+        <customerName>Rovelli Gifts</customerName>
+        <contactLastName>Rovelli</contactLastName>
+        <contactFirstName>Giovanni </contactFirstName>
+        <phone>035-640555</phone>
+        <addressLine1>Via Ludovico il Moro 22</addressLine1>
+        <city>Bergamo</city>
+        <country>Italy</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>119600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-24</paymentDate>
+      <amount>37723.79</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IA793562">
+      <customer customerNumber="282">
+        <customerName>Souveniers And Things Co.</customerName>
+        <contactLastName>Huxley</contactLastName>
+        <contactFirstName>Adrian</contactFirstName>
+        <phone>+61 2 9495 8555</phone>
+        <addressLine1>Monitor Money Building</addressLine1>
+        <city>Chatswood</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>93300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-08-03</paymentDate>
+      <amount>24013.52</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JT819493">
+      <customer customerNumber="282">
+        <customerName>Souveniers And Things Co.</customerName>
+        <contactLastName>Huxley</contactLastName>
+        <contactFirstName>Adrian</contactFirstName>
+        <phone>+61 2 9495 8555</phone>
+        <addressLine1>Monitor Money Building</addressLine1>
+        <city>Chatswood</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>93300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-08-02</paymentDate>
+      <amount>35806.73</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OD327378">
+      <customer customerNumber="282">
+        <customerName>Souveniers And Things Co.</customerName>
+        <contactLastName>Huxley</contactLastName>
+        <contactFirstName>Adrian</contactFirstName>
+        <phone>+61 2 9495 8555</phone>
+        <addressLine1>Monitor Money Building</addressLine1>
+        <city>Chatswood</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>93300.00</creditLimit>
+      </customer>
+      <paymentDate>2005-01-03</paymentDate>
+      <amount>31835.36</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DR578578">
+      <customer customerNumber="286">
+        <customerName>Marta's Replicas Co.</customerName>
+        <contactLastName>Hernandez</contactLastName>
+        <contactFirstName>Marta</contactFirstName>
+        <phone>6175558555</phone>
+        <addressLine1>39323 Spinnaker Dr.</addressLine1>
+        <city>Cambridge</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>123700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-10-28</paymentDate>
+      <amount>47411.33</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KH910279">
+      <customer customerNumber="286">
+        <customerName>Marta's Replicas Co.</customerName>
+        <contactLastName>Hernandez</contactLastName>
+        <contactFirstName>Marta</contactFirstName>
+        <phone>6175558555</phone>
+        <addressLine1>39323 Spinnaker Dr.</addressLine1>
+        <city>Cambridge</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>123700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-05</paymentDate>
+      <amount>43134.04</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AJ574927">
+      <customer customerNumber="298">
+        <customerName>Vida Sport, Ltd</customerName>
+        <contactLastName>Holz</contactLastName>
+        <contactFirstName>Mihael</contactFirstName>
+        <phone>0897-034555</phone>
+        <addressLine1>Grenzacherweg 237</addressLine1>
+        <city>Genève</city>
+        <country>Switzerland</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>141300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-03-13</paymentDate>
+      <amount>47375.92</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LF501133">
+      <customer customerNumber="298">
+        <customerName>Vida Sport, Ltd</customerName>
+        <contactLastName>Holz</contactLastName>
+        <contactFirstName>Mihael</contactFirstName>
+        <phone>0897-034555</phone>
+        <addressLine1>Grenzacherweg 237</addressLine1>
+        <city>Genève</city>
+        <country>Switzerland</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>141300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-18</paymentDate>
+      <amount>61402.00</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AD304085">
+      <customer customerNumber="299">
+        <customerName>Norway Gifts By Mail, Co.</customerName>
+        <contactLastName>Klaeboe</contactLastName>
+        <contactFirstName>Jan</contactFirstName>
+        <phone>+47 2212 1555</phone>
+        <addressLine1>Drammensveien 126A</addressLine1>
+        <city>Oslo</city>
+        <country>Norway  </country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>95100.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-24</paymentDate>
+      <amount>36798.88</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NR157385">
+      <customer customerNumber="299">
+        <customerName>Norway Gifts By Mail, Co.</customerName>
+        <contactLastName>Klaeboe</contactLastName>
+        <contactFirstName>Jan</contactFirstName>
+        <phone>+47 2212 1555</phone>
+        <addressLine1>Drammensveien 126A</addressLine1>
+        <city>Oslo</city>
+        <country>Norway  </country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>95100.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-05</paymentDate>
+      <amount>32260.16</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DG336041">
+      <customer customerNumber="311">
+        <customerName>Oulu Toy Supplies, Inc.</customerName>
+        <contactLastName>Koskitalo</contactLastName>
+        <contactFirstName>Pirkko</contactFirstName>
+        <phone>981-443655</phone>
+        <addressLine1>Torikatu 38</addressLine1>
+        <city>Oulu</city>
+        <country>Finland</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>90500.00</creditLimit>
+      </customer>
+      <paymentDate>2005-02-15</paymentDate>
+      <amount>46770.52</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FA728475">
+      <customer customerNumber="311">
+        <customerName>Oulu Toy Supplies, Inc.</customerName>
+        <contactLastName>Koskitalo</contactLastName>
+        <contactFirstName>Pirkko</contactFirstName>
+        <phone>981-443655</phone>
+        <addressLine1>Torikatu 38</addressLine1>
+        <city>Oulu</city>
+        <country>Finland</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>90500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-06</paymentDate>
+      <amount>32723.04</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NQ966143">
+      <customer customerNumber="311">
+        <customerName>Oulu Toy Supplies, Inc.</customerName>
+        <contactLastName>Koskitalo</contactLastName>
+        <contactFirstName>Pirkko</contactFirstName>
+        <phone>981-443655</phone>
+        <addressLine1>Torikatu 38</addressLine1>
+        <city>Oulu</city>
+        <country>Finland</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>90500.00</creditLimit>
+      </customer>
+      <paymentDate>2004-04-25</paymentDate>
+      <amount>16212.59</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LQ244073">
+      <customer customerNumber="314">
+        <customerName>Petit Auto</customerName>
+        <contactLastName>Dewey</contactLastName>
+        <contactFirstName>Catherine </contactFirstName>
+        <phone>(02) 5554 67</phone>
+        <addressLine1>Rue Joseph-Bens 532</addressLine1>
+        <city>Bruxelles</city>
+        <country>Belgium</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>79900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-08-09</paymentDate>
+      <amount>45352.47</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MD809704">
+      <customer customerNumber="314">
+        <customerName>Petit Auto</customerName>
+        <contactLastName>Dewey</contactLastName>
+        <contactFirstName>Catherine </contactFirstName>
+        <phone>(02) 5554 67</phone>
+        <addressLine1>Rue Joseph-Bens 532</addressLine1>
+        <city>Bruxelles</city>
+        <country>Belgium</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>79900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-03-03</paymentDate>
+      <amount>16901.38</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HL685576">
+      <customer customerNumber="319">
+        <customerName>Mini Classics</customerName>
+        <contactLastName>Frick</contactLastName>
+        <contactFirstName>Steve</contactFirstName>
+        <phone>9145554562</phone>
+        <addressLine1>3758 North Pendale Street</addressLine1>
+        <city>White Plains</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>102700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-06</paymentDate>
+      <amount>42339.76</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OM548174">
+      <customer customerNumber="319">
+        <customerName>Mini Classics</customerName>
+        <contactLastName>Frick</contactLastName>
+        <contactFirstName>Steve</contactFirstName>
+        <phone>9145554562</phone>
+        <addressLine1>3758 North Pendale Street</addressLine1>
+        <city>White Plains</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>102700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-07</paymentDate>
+      <amount>36092.40</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GJ597719">
+      <customer customerNumber="320">
+        <customerName>Mini Creations Ltd.</customerName>
+        <contactLastName>Huang</contactLastName>
+        <contactFirstName>Wing</contactFirstName>
+        <phone>5085559555</phone>
+        <addressLine1>4575 Hillside Dr.</addressLine1>
+        <city>New Bedford</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>94500.00</creditLimit>
+      </customer>
+      <paymentDate>2005-01-18</paymentDate>
+      <amount>8307.28</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HO576374">
+      <customer customerNumber="320">
+        <customerName>Mini Creations Ltd.</customerName>
+        <contactLastName>Huang</contactLastName>
+        <contactFirstName>Wing</contactFirstName>
+        <phone>5085559555</phone>
+        <addressLine1>4575 Hillside Dr.</addressLine1>
+        <city>New Bedford</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>94500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-08-20</paymentDate>
+      <amount>41016.75</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MU817160">
+      <customer customerNumber="320">
+        <customerName>Mini Creations Ltd.</customerName>
+        <contactLastName>Huang</contactLastName>
+        <contactFirstName>Wing</contactFirstName>
+        <phone>5085559555</phone>
+        <addressLine1>4575 Hillside Dr.</addressLine1>
+        <city>New Bedford</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>94500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-24</paymentDate>
+      <amount>52548.49</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DJ15149">
+      <customer customerNumber="321">
+        <customerName>Corporate Gift Ideas Co.</customerName>
+        <contactLastName>Brown</contactLastName>
+        <contactFirstName>Julie</contactFirstName>
+        <phone>6505551386</phone>
+        <addressLine1>7734 Strong St.</addressLine1>
+        <city>San Francisco</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>105000.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-03</paymentDate>
+      <amount>85559.12</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LA556321">
+      <customer customerNumber="321">
+        <customerName>Corporate Gift Ideas Co.</customerName>
+        <contactLastName>Brown</contactLastName>
+        <contactFirstName>Julie</contactFirstName>
+        <phone>6505551386</phone>
+        <addressLine1>7734 Strong St.</addressLine1>
+        <city>San Francisco</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>105000.00</creditLimit>
+      </customer>
+      <paymentDate>2005-03-15</paymentDate>
+      <amount>46781.66</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AL493079">
+      <customer customerNumber="323">
+        <customerName>Down Under Souveniers, Inc</customerName>
+        <contactLastName>Graham</contactLastName>
+        <contactFirstName>Mike</contactFirstName>
+        <phone>+64 9 312 5555</phone>
+        <addressLine1>162-164 Grafton Road</addressLine1>
+        <city>Auckland  </city>
+        <country>New Zealand</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>88000.00</creditLimit>
+      </customer>
+      <paymentDate>2005-05-23</paymentDate>
+      <amount>75020.13</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ES347491">
+      <customer customerNumber="323">
+        <customerName>Down Under Souveniers, Inc</customerName>
+        <contactLastName>Graham</contactLastName>
+        <contactFirstName>Mike</contactFirstName>
+        <phone>+64 9 312 5555</phone>
+        <addressLine1>162-164 Grafton Road</addressLine1>
+        <city>Auckland  </city>
+        <country>New Zealand</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>88000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-06-24</paymentDate>
+      <amount>37281.36</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HG738664">
+      <customer customerNumber="323">
+        <customerName>Down Under Souveniers, Inc</customerName>
+        <contactLastName>Graham</contactLastName>
+        <contactFirstName>Mike</contactFirstName>
+        <phone>+64 9 312 5555</phone>
+        <addressLine1>162-164 Grafton Road</addressLine1>
+        <city>Auckland  </city>
+        <country>New Zealand</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>88000.00</creditLimit>
+      </customer>
+      <paymentDate>2003-07-05</paymentDate>
+      <amount>2880.00</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PQ803830">
+      <customer customerNumber="323">
+        <customerName>Down Under Souveniers, Inc</customerName>
+        <contactLastName>Graham</contactLastName>
+        <contactFirstName>Mike</contactFirstName>
+        <phone>+64 9 312 5555</phone>
+        <addressLine1>162-164 Grafton Road</addressLine1>
+        <city>Auckland  </city>
+        <country>New Zealand</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>88000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-24</paymentDate>
+      <amount>39440.59</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DQ409197">
+      <customer customerNumber="324">
+        <customerName>Stylish Desk Decors, Co.</customerName>
+        <contactLastName>Brown</contactLastName>
+        <contactFirstName>Ann </contactFirstName>
+        <phone>(171) 555-0297</phone>
+        <addressLine1>35 King George</addressLine1>
+        <city>London</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>77000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-13</paymentDate>
+      <amount>13671.82</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FP443161">
+      <customer customerNumber="324">
+        <customerName>Stylish Desk Decors, Co.</customerName>
+        <contactLastName>Brown</contactLastName>
+        <contactFirstName>Ann </contactFirstName>
+        <phone>(171) 555-0297</phone>
+        <addressLine1>35 King George</addressLine1>
+        <city>London</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>77000.00</creditLimit>
+      </customer>
+      <paymentDate>2003-07-07</paymentDate>
+      <amount>29429.14</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HB150714">
+      <customer customerNumber="324">
+        <customerName>Stylish Desk Decors, Co.</customerName>
+        <contactLastName>Brown</contactLastName>
+        <contactFirstName>Ann </contactFirstName>
+        <phone>(171) 555-0297</phone>
+        <addressLine1>35 King George</addressLine1>
+        <city>London</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>77000.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-23</paymentDate>
+      <amount>37455.77</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="EN930356">
+      <customer customerNumber="328">
+        <customerName>Tekni Collectables Inc.</customerName>
+        <contactLastName>Brown</contactLastName>
+        <contactFirstName>William</contactFirstName>
+        <phone>2015559350</phone>
+        <addressLine1>7476 Moss Rd.</addressLine1>
+        <city>Newark</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>43000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-04-16</paymentDate>
+      <amount>7178.66</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NR631421">
+      <customer customerNumber="328">
+        <customerName>Tekni Collectables Inc.</customerName>
+        <contactLastName>Brown</contactLastName>
+        <contactFirstName>William</contactFirstName>
+        <phone>2015559350</phone>
+        <addressLine1>7476 Moss Rd.</addressLine1>
+        <city>Newark</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>43000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-05-30</paymentDate>
+      <amount>31102.85</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HL209210">
+      <customer customerNumber="333">
+        <customerName>Australian Gift Network, Co</customerName>
+        <contactLastName>Calaghan</contactLastName>
+        <contactFirstName>Ben</contactFirstName>
+        <phone>61-7-3844-6555</phone>
+        <addressLine1>31 Duncan St. West End</addressLine1>
+        <city>South Brisbane</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>51600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-15</paymentDate>
+      <amount>23936.53</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JK479662">
+      <customer customerNumber="333">
+        <customerName>Australian Gift Network, Co</customerName>
+        <contactLastName>Calaghan</contactLastName>
+        <contactFirstName>Ben</contactFirstName>
+        <phone>61-7-3844-6555</phone>
+        <addressLine1>31 Duncan St. West End</addressLine1>
+        <city>South Brisbane</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>51600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-17</paymentDate>
+      <amount>9821.32</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NF959653">
+      <customer customerNumber="333">
+        <customerName>Australian Gift Network, Co</customerName>
+        <contactLastName>Calaghan</contactLastName>
+        <contactFirstName>Ben</contactFirstName>
+        <phone>61-7-3844-6555</phone>
+        <addressLine1>31 Duncan St. West End</addressLine1>
+        <city>South Brisbane</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>51600.00</creditLimit>
+      </customer>
+      <paymentDate>2005-03-01</paymentDate>
+      <amount>21432.31</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CS435306">
+      <customer customerNumber="334">
+        <customerName>Suominen Souveniers</customerName>
+        <contactLastName>Suominen</contactLastName>
+        <contactFirstName>Kalle</contactFirstName>
+        <phone>+358 9 8045 555</phone>
+        <addressLine1>Software Engineering Center</addressLine1>
+        <city>Espoo</city>
+        <country>Finland</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>98800.00</creditLimit>
+      </customer>
+      <paymentDate>2005-01-27</paymentDate>
+      <amount>45785.34</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HH517378">
+      <customer customerNumber="334">
+        <customerName>Suominen Souveniers</customerName>
+        <contactLastName>Suominen</contactLastName>
+        <contactFirstName>Kalle</contactFirstName>
+        <phone>+358 9 8045 555</phone>
+        <addressLine1>Software Engineering Center</addressLine1>
+        <city>Espoo</city>
+        <country>Finland</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>98800.00</creditLimit>
+      </customer>
+      <paymentDate>2003-08-16</paymentDate>
+      <amount>29716.86</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LF737277">
+      <customer customerNumber="334">
+        <customerName>Suominen Souveniers</customerName>
+        <contactLastName>Suominen</contactLastName>
+        <contactFirstName>Kalle</contactFirstName>
+        <phone>+358 9 8045 555</phone>
+        <addressLine1>Software Engineering Center</addressLine1>
+        <city>Espoo</city>
+        <country>Finland</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>98800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-05-22</paymentDate>
+      <amount>28394.54</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AP286625">
+      <customer customerNumber="339">
+        <customerName>Classic Gift Ideas, Inc</customerName>
+        <contactLastName>Cervantes</contactLastName>
+        <contactFirstName>Francisca</contactFirstName>
+        <phone>2155554695</phone>
+        <addressLine1>782 First Street</addressLine1>
+        <city>Philadelphia</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>81100.00</creditLimit>
+      </customer>
+      <paymentDate>2004-10-24</paymentDate>
+      <amount>23333.06</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DA98827">
+      <customer customerNumber="339">
+        <customerName>Classic Gift Ideas, Inc</customerName>
+        <contactLastName>Cervantes</contactLastName>
+        <contactFirstName>Francisca</contactFirstName>
+        <phone>2155554695</phone>
+        <addressLine1>782 First Street</addressLine1>
+        <city>Philadelphia</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>81100.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-28</paymentDate>
+      <amount>34606.28</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AF246722">
+      <customer customerNumber="344">
+        <customerName>CAF Imports</customerName>
+        <contactLastName>Fernandez</contactLastName>
+        <contactFirstName>Jesus</contactFirstName>
+        <phone>+34 913 728 555</phone>
+        <addressLine1>Merchants House</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>59600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-24</paymentDate>
+      <amount>31428.21</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NJ906924">
+      <customer customerNumber="344">
+        <customerName>CAF Imports</customerName>
+        <contactLastName>Fernandez</contactLastName>
+        <contactFirstName>Jesus</contactFirstName>
+        <phone>+34 913 728 555</phone>
+        <addressLine1>Merchants House</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>59600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-04-02</paymentDate>
+      <amount>15322.93</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DG700707">
+      <customer customerNumber="347">
+        <customerName>Men 'R' US Retailers, Ltd.</customerName>
+        <contactLastName>Chandler</contactLastName>
+        <contactFirstName>Brian</contactFirstName>
+        <phone>2155554369</phone>
+        <addressLine1>6047 Douglas Av.</addressLine1>
+        <city>Los Angeles</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>57700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-01-18</paymentDate>
+      <amount>21053.69</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LG808674">
+      <customer customerNumber="347">
+        <customerName>Men 'R' US Retailers, Ltd.</customerName>
+        <contactLastName>Chandler</contactLastName>
+        <contactFirstName>Brian</contactFirstName>
+        <phone>2155554369</phone>
+        <addressLine1>6047 Douglas Av.</addressLine1>
+        <city>Los Angeles</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>57700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-24</paymentDate>
+      <amount>20452.50</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BQ602907">
+      <customer customerNumber="350">
+        <customerName>Marseille Mini Autos</customerName>
+        <contactLastName>Lebihan</contactLastName>
+        <contactFirstName>Laurence </contactFirstName>
+        <phone>91.24.4555</phone>
+        <addressLine1>12, rue des Bouchers</addressLine1>
+        <city>Marseille</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>65000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-11</paymentDate>
+      <amount>18888.31</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CI471510">
+      <customer customerNumber="350">
+        <customerName>Marseille Mini Autos</customerName>
+        <contactLastName>Lebihan</contactLastName>
+        <contactFirstName>Laurence </contactFirstName>
+        <phone>91.24.4555</phone>
+        <addressLine1>12, rue des Bouchers</addressLine1>
+        <city>Marseille</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>65000.00</creditLimit>
+      </customer>
+      <paymentDate>2003-05-25</paymentDate>
+      <amount>50824.66</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OB648482">
+      <customer customerNumber="350">
+        <customerName>Marseille Mini Autos</customerName>
+        <contactLastName>Lebihan</contactLastName>
+        <contactFirstName>Laurence </contactFirstName>
+        <phone>91.24.4555</phone>
+        <addressLine1>12, rue des Bouchers</addressLine1>
+        <city>Marseille</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>65000.00</creditLimit>
+      </customer>
+      <paymentDate>2005-01-29</paymentDate>
+      <amount>1834.56</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CO351193">
+      <customer customerNumber="353">
+        <customerName>Reims Collectables</customerName>
+        <contactLastName>Henriot</contactLastName>
+        <contactFirstName>Paul </contactFirstName>
+        <phone>26.47.1555</phone>
+        <addressLine1>59 rue de l'Abbaye</addressLine1>
+        <city>Reims</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>81100.00</creditLimit>
+      </customer>
+      <paymentDate>2005-01-10</paymentDate>
+      <amount>49705.52</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ED878227">
+      <customer customerNumber="353">
+        <customerName>Reims Collectables</customerName>
+        <contactLastName>Henriot</contactLastName>
+        <contactFirstName>Paul </contactFirstName>
+        <phone>26.47.1555</phone>
+        <addressLine1>59 rue de l'Abbaye</addressLine1>
+        <city>Reims</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>81100.00</creditLimit>
+      </customer>
+      <paymentDate>2003-07-21</paymentDate>
+      <amount>13920.26</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GT878649">
+      <customer customerNumber="353">
+        <customerName>Reims Collectables</customerName>
+        <contactLastName>Henriot</contactLastName>
+        <contactFirstName>Paul </contactFirstName>
+        <phone>26.47.1555</phone>
+        <addressLine1>59 rue de l'Abbaye</addressLine1>
+        <city>Reims</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>81100.00</creditLimit>
+      </customer>
+      <paymentDate>2003-05-21</paymentDate>
+      <amount>16700.47</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HJ618252">
+      <customer customerNumber="353">
+        <customerName>Reims Collectables</customerName>
+        <contactLastName>Henriot</contactLastName>
+        <contactFirstName>Paul </contactFirstName>
+        <phone>26.47.1555</phone>
+        <addressLine1>59 rue de l'Abbaye</addressLine1>
+        <city>Reims</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>81100.00</creditLimit>
+      </customer>
+      <paymentDate>2005-06-09</paymentDate>
+      <amount>46656.94</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AG240323">
+      <customer customerNumber="357">
+        <customerName>GiftsForHim.com</customerName>
+        <contactLastName>MacKinlay</contactLastName>
+        <contactFirstName>Wales</contactFirstName>
+        <phone>64-9-3763555</phone>
+        <addressLine1>199 Great North Road</addressLine1>
+        <city>Auckland</city>
+        <country>New Zealand</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>77700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-16</paymentDate>
+      <amount>20220.04</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NB291497">
+      <customer customerNumber="357">
+        <customerName>GiftsForHim.com</customerName>
+        <contactLastName>MacKinlay</contactLastName>
+        <contactFirstName>Wales</contactFirstName>
+        <phone>64-9-3763555</phone>
+        <addressLine1>199 Great North Road</addressLine1>
+        <city>Auckland</city>
+        <country>New Zealand</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>77700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-05-15</paymentDate>
+      <amount>36442.34</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FP170292">
+      <customer customerNumber="362">
+        <customerName>Gifts4AllAges.com</customerName>
+        <contactLastName>Yoshido</contactLastName>
+        <contactFirstName>Juri</contactFirstName>
+        <phone>6175559555</phone>
+        <addressLine1>8616 Spinnaker Dr.</addressLine1>
+        <city>Boston</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>41900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-07-11</paymentDate>
+      <amount>18473.71</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OG208861">
+      <customer customerNumber="362">
+        <customerName>Gifts4AllAges.com</customerName>
+        <contactLastName>Yoshido</contactLastName>
+        <contactFirstName>Juri</contactFirstName>
+        <phone>6175559555</phone>
+        <addressLine1>8616 Spinnaker Dr.</addressLine1>
+        <city>Boston</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>41900.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-21</paymentDate>
+      <amount>15059.76</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HL575273">
+      <customer customerNumber="363">
+        <customerName>Online Diecast Creations Co.</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Dorothy</contactFirstName>
+        <phone>6035558647</phone>
+        <addressLine1>2304 Long Airport Avenue</addressLine1>
+        <city>Nashua</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>114200.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-17</paymentDate>
+      <amount>50799.69</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IS232033">
+      <customer customerNumber="363">
+        <customerName>Online Diecast Creations Co.</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Dorothy</contactFirstName>
+        <phone>6035558647</phone>
+        <addressLine1>2304 Long Airport Avenue</addressLine1>
+        <city>Nashua</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>114200.00</creditLimit>
+      </customer>
+      <paymentDate>2003-01-16</paymentDate>
+      <amount>10223.83</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PN238558">
+      <customer customerNumber="363">
+        <customerName>Online Diecast Creations Co.</customerName>
+        <contactLastName>Young</contactLastName>
+        <contactFirstName>Dorothy</contactFirstName>
+        <phone>6035558647</phone>
+        <addressLine1>2304 Long Airport Avenue</addressLine1>
+        <city>Nashua</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>114200.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-05</paymentDate>
+      <amount>55425.77</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CA762595">
+      <customer customerNumber="379">
+        <customerName>Collectables For Less Inc.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Allen</contactFirstName>
+        <phone>6175558555</phone>
+        <addressLine1>7825 Douglas Av.</addressLine1>
+        <city>Brickhaven</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>70700.00</creditLimit>
+      </customer>
+      <paymentDate>2005-02-12</paymentDate>
+      <amount>28322.83</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FR499138">
+      <customer customerNumber="379">
+        <customerName>Collectables For Less Inc.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Allen</contactFirstName>
+        <phone>6175558555</phone>
+        <addressLine1>7825 Douglas Av.</addressLine1>
+        <city>Brickhaven</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>70700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-09-16</paymentDate>
+      <amount>32680.31</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GB890854">
+      <customer customerNumber="379">
+        <customerName>Collectables For Less Inc.</customerName>
+        <contactLastName>Nelson</contactLastName>
+        <contactFirstName>Allen</contactFirstName>
+        <phone>6175558555</phone>
+        <addressLine1>7825 Douglas Av.</addressLine1>
+        <city>Brickhaven</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>70700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-08-02</paymentDate>
+      <amount>12530.51</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BC726082">
+      <customer customerNumber="381">
+        <customerName>Royale Belge</customerName>
+        <contactLastName>Cartrain</contactLastName>
+        <contactFirstName>Pascale </contactFirstName>
+        <phone>(071) 23 67 2555</phone>
+        <addressLine1>Boulevard Tirou, 255</addressLine1>
+        <city>Charleroi</city>
+        <country>Belgium</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>23500.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-03</paymentDate>
+      <amount>12081.52</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CC475233">
+      <customer customerNumber="381">
+        <customerName>Royale Belge</customerName>
+        <contactLastName>Cartrain</contactLastName>
+        <contactFirstName>Pascale </contactFirstName>
+        <phone>(071) 23 67 2555</phone>
+        <addressLine1>Boulevard Tirou, 255</addressLine1>
+        <city>Charleroi</city>
+        <country>Belgium</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>23500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-04-19</paymentDate>
+      <amount>1627.56</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GB117430">
+      <customer customerNumber="381">
+        <customerName>Royale Belge</customerName>
+        <contactLastName>Cartrain</contactLastName>
+        <contactFirstName>Pascale </contactFirstName>
+        <phone>(071) 23 67 2555</phone>
+        <addressLine1>Boulevard Tirou, 255</addressLine1>
+        <city>Charleroi</city>
+        <country>Belgium</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>23500.00</creditLimit>
+      </customer>
+      <paymentDate>2005-02-03</paymentDate>
+      <amount>14379.90</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MS154481">
+      <customer customerNumber="381">
+        <customerName>Royale Belge</customerName>
+        <contactLastName>Cartrain</contactLastName>
+        <contactFirstName>Pascale </contactFirstName>
+        <phone>(071) 23 67 2555</phone>
+        <addressLine1>Boulevard Tirou, 255</addressLine1>
+        <city>Charleroi</city>
+        <country>Belgium</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>23500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-08-22</paymentDate>
+      <amount>1128.20</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CC871084">
+      <customer customerNumber="382">
+        <customerName>Salzburg Collectables</customerName>
+        <contactLastName>Pipps</contactLastName>
+        <contactFirstName>Georg </contactFirstName>
+        <phone>6562-9555</phone>
+        <addressLine1>Geislweg 14</addressLine1>
+        <city>Salzburg</city>
+        <country>Austria</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>71700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-05-12</paymentDate>
+      <amount>35826.33</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CT821147">
+      <customer customerNumber="382">
+        <customerName>Salzburg Collectables</customerName>
+        <contactLastName>Pipps</contactLastName>
+        <contactFirstName>Georg </contactFirstName>
+        <phone>6562-9555</phone>
+        <addressLine1>Geislweg 14</addressLine1>
+        <city>Salzburg</city>
+        <country>Austria</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>71700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-08-01</paymentDate>
+      <amount>6419.84</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PH29054">
+      <customer customerNumber="382">
+        <customerName>Salzburg Collectables</customerName>
+        <contactLastName>Pipps</contactLastName>
+        <contactFirstName>Georg </contactFirstName>
+        <phone>6562-9555</phone>
+        <addressLine1>Geislweg 14</addressLine1>
+        <city>Salzburg</city>
+        <country>Austria</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>71700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-27</paymentDate>
+      <amount>42813.83</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BN347084">
+      <customer customerNumber="385">
+        <customerName>Cruz and Sons Co.</customerName>
+        <contactLastName>Cruz</contactLastName>
+        <contactFirstName>Arnold</contactFirstName>
+        <phone>+63 2 555 3587</phone>
+        <addressLine1>15 McCallum Street</addressLine1>
+        <city>Makati City</city>
+        <country>Philippines</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>81500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-02</paymentDate>
+      <amount>20644.24</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CP804873">
+      <customer customerNumber="385">
+        <customerName>Cruz and Sons Co.</customerName>
+        <contactLastName>Cruz</contactLastName>
+        <contactFirstName>Arnold</contactFirstName>
+        <phone>+63 2 555 3587</phone>
+        <addressLine1>15 McCallum Street</addressLine1>
+        <city>Makati City</city>
+        <country>Philippines</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>81500.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-19</paymentDate>
+      <amount>15822.84</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="EK785462">
+      <customer customerNumber="385">
+        <customerName>Cruz and Sons Co.</customerName>
+        <contactLastName>Cruz</contactLastName>
+        <contactFirstName>Arnold</contactFirstName>
+        <phone>+63 2 555 3587</phone>
+        <addressLine1>15 McCallum Street</addressLine1>
+        <city>Makati City</city>
+        <country>Philippines</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>81500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-03-09</paymentDate>
+      <amount>51001.22</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DO106109">
+      <customer customerNumber="386">
+        <customerName>L'ordine Souveniers</customerName>
+        <contactLastName>Moroni</contactLastName>
+        <contactFirstName>Maurizio </contactFirstName>
+        <phone>0522-556555</phone>
+        <addressLine1>Strada Provinciale 124</addressLine1>
+        <city>Reggio Emilia</city>
+        <country>Italy</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>121400.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-18</paymentDate>
+      <amount>38524.29</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HG438769">
+      <customer customerNumber="386">
+        <customerName>L'ordine Souveniers</customerName>
+        <contactLastName>Moroni</contactLastName>
+        <contactFirstName>Maurizio </contactFirstName>
+        <phone>0522-556555</phone>
+        <addressLine1>Strada Provinciale 124</addressLine1>
+        <city>Reggio Emilia</city>
+        <country>Italy</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>121400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-07-18</paymentDate>
+      <amount>51619.02</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AJ478695">
+      <customer customerNumber="398">
+        <customerName>Tokyo Collectables, Ltd</customerName>
+        <contactLastName>Shimamura</contactLastName>
+        <contactFirstName>Akiko</contactFirstName>
+        <phone>+81 3 3584 0555</phone>
+        <addressLine1>2-2-8 Roppongi</addressLine1>
+        <city>Minato-ku</city>
+        <country>Japan</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>94400.00</creditLimit>
+      </customer>
+      <paymentDate>2005-02-14</paymentDate>
+      <amount>33967.73</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DO787644">
+      <customer customerNumber="398">
+        <customerName>Tokyo Collectables, Ltd</customerName>
+        <contactLastName>Shimamura</contactLastName>
+        <contactFirstName>Akiko</contactFirstName>
+        <phone>+81 3 3584 0555</phone>
+        <addressLine1>2-2-8 Roppongi</addressLine1>
+        <city>Minato-ku</city>
+        <country>Japan</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>94400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-06-21</paymentDate>
+      <amount>22037.91</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JPMR4544">
+      <customer customerNumber="398">
+        <customerName>Tokyo Collectables, Ltd</customerName>
+        <contactLastName>Shimamura</contactLastName>
+        <contactFirstName>Akiko</contactFirstName>
+        <phone>+81 3 3584 0555</phone>
+        <addressLine1>2-2-8 Roppongi</addressLine1>
+        <city>Minato-ku</city>
+        <country>Japan</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>94400.00</creditLimit>
+      </customer>
+      <paymentDate>2005-05-18</paymentDate>
+      <amount>615.45</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KB54275">
+      <customer customerNumber="398">
+        <customerName>Tokyo Collectables, Ltd</customerName>
+        <contactLastName>Shimamura</contactLastName>
+        <contactFirstName>Akiko</contactFirstName>
+        <phone>+81 3 3584 0555</phone>
+        <addressLine1>2-2-8 Roppongi</addressLine1>
+        <city>Minato-ku</city>
+        <country>Japan</country>
+        <salesRepEmployeeNumber>1621</salesRepEmployeeNumber>
+        <creditLimit>94400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-29</paymentDate>
+      <amount>48927.64</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BJMPR4545">
+      <customer customerNumber="406">
+        <customerName>Auto Canal+ Petit</customerName>
+        <contactLastName>Perrier</contactLastName>
+        <contactFirstName>Dominique</contactFirstName>
+        <phone>(1) 47.55.6555</phone>
+        <addressLine1>25, rue Lauriston</addressLine1>
+        <city>Paris</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>95000.00</creditLimit>
+      </customer>
+      <paymentDate>2005-04-23</paymentDate>
+      <amount>12190.85</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HJ217687">
+      <customer customerNumber="406">
+        <customerName>Auto Canal+ Petit</customerName>
+        <contactLastName>Perrier</contactLastName>
+        <contactFirstName>Dominique</contactFirstName>
+        <phone>(1) 47.55.6555</phone>
+        <addressLine1>25, rue Lauriston</addressLine1>
+        <city>Paris</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>95000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-01-28</paymentDate>
+      <amount>49165.16</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NA197101">
+      <customer customerNumber="406">
+        <customerName>Auto Canal+ Petit</customerName>
+        <contactLastName>Perrier</contactLastName>
+        <contactFirstName>Dominique</contactFirstName>
+        <phone>(1) 47.55.6555</phone>
+        <addressLine1>25, rue Lauriston</addressLine1>
+        <city>Paris</city>
+        <country>France</country>
+        <salesRepEmployeeNumber>1337</salesRepEmployeeNumber>
+        <creditLimit>95000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-06-17</paymentDate>
+      <amount>25080.96</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GH197075">
+      <customer customerNumber="412">
+        <customerName>Extreme Desk Decorations, Ltd</customerName>
+        <contactLastName>McRoy</contactLastName>
+        <contactFirstName>Sarah</contactFirstName>
+        <phone>04 499 9555</phone>
+        <addressLine1>101 Lambton Quay</addressLine1>
+        <city>Wellington</city>
+        <country>New Zealand</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>86800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-07-25</paymentDate>
+      <amount>35034.57</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PJ434867">
+      <customer customerNumber="412">
+        <customerName>Extreme Desk Decorations, Ltd</customerName>
+        <contactLastName>McRoy</contactLastName>
+        <contactFirstName>Sarah</contactFirstName>
+        <phone>04 499 9555</phone>
+        <addressLine1>101 Lambton Quay</addressLine1>
+        <city>Wellington</city>
+        <country>New Zealand</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>86800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-04-14</paymentDate>
+      <amount>31670.37</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ER54537">
+      <customer customerNumber="415">
+        <customerName>Bavarian Collectables Imports, Co.</customerName>
+        <contactLastName>Donnermeyer</contactLastName>
+        <contactFirstName>Michael</contactFirstName>
+        <phone> +49 89 61 08 9555</phone>
+        <addressLine1>Hansastr. 15</addressLine1>
+        <city>Munich</city>
+        <country>Germany</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>77000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-28</paymentDate>
+      <amount>31310.09</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KF480160">
+      <customer customerNumber="424">
+        <customerName>Classic Legends Inc.</customerName>
+        <contactLastName>Hernandez</contactLastName>
+        <contactFirstName>Maria</contactFirstName>
+        <phone>2125558493</phone>
+        <addressLine1>5905 Pompton St.</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>67500.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-07</paymentDate>
+      <amount>25505.98</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LM271923">
+      <customer customerNumber="424">
+        <customerName>Classic Legends Inc.</customerName>
+        <contactLastName>Hernandez</contactLastName>
+        <contactFirstName>Maria</contactFirstName>
+        <phone>2125558493</phone>
+        <addressLine1>5905 Pompton St.</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>67500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-04-16</paymentDate>
+      <amount>21665.98</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OA595449">
+      <customer customerNumber="424">
+        <customerName>Classic Legends Inc.</customerName>
+        <contactLastName>Hernandez</contactLastName>
+        <contactFirstName>Maria</contactFirstName>
+        <phone>2125558493</phone>
+        <addressLine1>5905 Pompton St.</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>67500.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-31</paymentDate>
+      <amount>22042.37</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AO757239">
+      <customer customerNumber="447">
+        <customerName>Gift Ideas Corp.</customerName>
+        <contactLastName>Lewis</contactLastName>
+        <contactFirstName>Dan</contactFirstName>
+        <phone>2035554407</phone>
+        <addressLine1>2440 Pompton St.</addressLine1>
+        <city>Glendale</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>49700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-09-15</paymentDate>
+      <amount>6631.36</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ER615123">
+      <customer customerNumber="447">
+        <customerName>Gift Ideas Corp.</customerName>
+        <contactLastName>Lewis</contactLastName>
+        <contactFirstName>Dan</contactFirstName>
+        <phone>2035554407</phone>
+        <addressLine1>2440 Pompton St.</addressLine1>
+        <city>Glendale</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>49700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-06-25</paymentDate>
+      <amount>17032.29</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OU516561">
+      <customer customerNumber="447">
+        <customerName>Gift Ideas Corp.</customerName>
+        <contactLastName>Lewis</contactLastName>
+        <contactFirstName>Dan</contactFirstName>
+        <phone>2035554407</phone>
+        <addressLine1>2440 Pompton St.</addressLine1>
+        <city>Glendale</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>49700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-17</paymentDate>
+      <amount>26304.13</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FS299615">
+      <customer customerNumber="448">
+        <customerName>Scandinavian Gift Ideas</customerName>
+        <contactLastName>Larsson</contactLastName>
+        <contactFirstName>Martha</contactFirstName>
+        <phone>0695-34 6555</phone>
+        <addressLine1>Åkergatan 24</addressLine1>
+        <city>Bräcke</city>
+        <country>Sweden</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>116400.00</creditLimit>
+      </customer>
+      <paymentDate>2005-04-18</paymentDate>
+      <amount>27966.54</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="KR822727">
+      <customer customerNumber="448">
+        <customerName>Scandinavian Gift Ideas</customerName>
+        <contactLastName>Larsson</contactLastName>
+        <contactFirstName>Martha</contactFirstName>
+        <phone>0695-34 6555</phone>
+        <addressLine1>Åkergatan 24</addressLine1>
+        <city>Bräcke</city>
+        <country>Sweden</country>
+        <salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
+        <creditLimit>116400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-09-30</paymentDate>
+      <amount>48809.90</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="EF485824">
+      <customer customerNumber="450">
+        <customerName>The Sharp Gifts Warehouse</customerName>
+        <contactLastName>Frick</contactLastName>
+        <contactFirstName>Sue</contactFirstName>
+        <phone>4085553659</phone>
+        <addressLine1>3086 Ingle Ln.</addressLine1>
+        <city>San Jose</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>77600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-06-21</paymentDate>
+      <amount>59551.38</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ED473873">
+      <customer customerNumber="452">
+        <customerName>Mini Auto Werke</customerName>
+        <contactLastName>Mendel</contactLastName>
+        <contactFirstName>Roland </contactFirstName>
+        <phone>7675-3555</phone>
+        <addressLine1>Kirchgasse 6</addressLine1>
+        <city>Graz</city>
+        <country>Austria</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>45300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-15</paymentDate>
+      <amount>27121.90</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FN640986">
+      <customer customerNumber="452">
+        <customerName>Mini Auto Werke</customerName>
+        <contactLastName>Mendel</contactLastName>
+        <contactFirstName>Roland </contactFirstName>
+        <phone>7675-3555</phone>
+        <addressLine1>Kirchgasse 6</addressLine1>
+        <city>Graz</city>
+        <country>Austria</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>45300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-20</paymentDate>
+      <amount>15130.97</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HG635467">
+      <customer customerNumber="452">
+        <customerName>Mini Auto Werke</customerName>
+        <contactLastName>Mendel</contactLastName>
+        <contactFirstName>Roland </contactFirstName>
+        <phone>7675-3555</phone>
+        <addressLine1>Kirchgasse 6</addressLine1>
+        <city>Graz</city>
+        <country>Austria</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>45300.00</creditLimit>
+      </customer>
+      <paymentDate>2005-05-03</paymentDate>
+      <amount>8807.12</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HA777606">
+      <customer customerNumber="455">
+        <customerName>Super Scale Inc.</customerName>
+        <contactLastName>Murphy</contactLastName>
+        <contactFirstName>Leslie</contactFirstName>
+        <phone>2035559545</phone>
+        <addressLine1>567 North Pendale Street</addressLine1>
+        <city>New Haven</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>95400.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-05</paymentDate>
+      <amount>38139.18</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="IR662429">
+      <customer customerNumber="455">
+        <customerName>Super Scale Inc.</customerName>
+        <contactLastName>Murphy</contactLastName>
+        <contactFirstName>Leslie</contactFirstName>
+        <phone>2035559545</phone>
+        <addressLine1>567 North Pendale Street</addressLine1>
+        <city>New Haven</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>95400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-05-12</paymentDate>
+      <amount>32239.47</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GJ715659">
+      <customer customerNumber="456">
+        <customerName>Microscale Inc.</customerName>
+        <contactLastName>Choi</contactLastName>
+        <contactFirstName>Yu</contactFirstName>
+        <phone>2125551957</phone>
+        <addressLine1>5290 North Pendale Street</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>39800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-13</paymentDate>
+      <amount>27550.51</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MO743231">
+      <customer customerNumber="456">
+        <customerName>Microscale Inc.</customerName>
+        <contactLastName>Choi</contactLastName>
+        <contactFirstName>Yu</contactFirstName>
+        <phone>2125551957</phone>
+        <addressLine1>5290 North Pendale Street</addressLine1>
+        <city>NYC</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
+        <creditLimit>39800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-04-30</paymentDate>
+      <amount>1679.92</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="DD995006">
+      <customer customerNumber="458">
+        <customerName>Corrida Auto Replicas, Ltd</customerName>
+        <contactLastName>Sommer</contactLastName>
+        <contactFirstName>Martín </contactFirstName>
+        <phone>(91) 555 22 82</phone>
+        <addressLine1>C/ Araquil, 67</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>104600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-15</paymentDate>
+      <amount>33145.56</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="NA377824">
+      <customer customerNumber="458">
+        <customerName>Corrida Auto Replicas, Ltd</customerName>
+        <contactLastName>Sommer</contactLastName>
+        <contactFirstName>Martín </contactFirstName>
+        <phone>(91) 555 22 82</phone>
+        <addressLine1>C/ Araquil, 67</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>104600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-02-06</paymentDate>
+      <amount>22162.61</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OO606861">
+      <customer customerNumber="458">
+        <customerName>Corrida Auto Replicas, Ltd</customerName>
+        <contactLastName>Sommer</contactLastName>
+        <contactFirstName>Martín </contactFirstName>
+        <phone>(91) 555 22 82</phone>
+        <addressLine1>C/ Araquil, 67</addressLine1>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>104600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-06-13</paymentDate>
+      <amount>57131.92</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="ED203908">
+      <customer customerNumber="462">
+        <customerName>FunGiftIdeas.com</customerName>
+        <contactLastName>Benitez</contactLastName>
+        <contactFirstName>Violeta</contactFirstName>
+        <phone>5085552555</phone>
+        <addressLine1>1785 First Street</addressLine1>
+        <city>New Bedford</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>85800.00</creditLimit>
+      </customer>
+      <paymentDate>2005-04-15</paymentDate>
+      <amount>30293.77</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GC60330">
+      <customer customerNumber="462">
+        <customerName>FunGiftIdeas.com</customerName>
+        <contactLastName>Benitez</contactLastName>
+        <contactFirstName>Violeta</contactFirstName>
+        <phone>5085552555</phone>
+        <addressLine1>1785 First Street</addressLine1>
+        <city>New Bedford</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>85800.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-08</paymentDate>
+      <amount>9977.85</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PE176846">
+      <customer customerNumber="462">
+        <customerName>FunGiftIdeas.com</customerName>
+        <contactLastName>Benitez</contactLastName>
+        <contactFirstName>Violeta</contactFirstName>
+        <phone>5085552555</phone>
+        <addressLine1>1785 First Street</addressLine1>
+        <city>New Bedford</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1216</salesRepEmployeeNumber>
+        <creditLimit>85800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-27</paymentDate>
+      <amount>48355.87</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AB661578">
+      <customer customerNumber="471">
+        <customerName>Australian Collectables, Ltd</customerName>
+        <contactLastName>Clenahan</contactLastName>
+        <contactFirstName>Sean</contactFirstName>
+        <phone>61-9-3844-6555</phone>
+        <addressLine1>7 Allen Street</addressLine1>
+        <city>Glen Waverly</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>60300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-07-28</paymentDate>
+      <amount>9415.13</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="CO645196">
+      <customer customerNumber="471">
+        <customerName>Australian Collectables, Ltd</customerName>
+        <contactLastName>Clenahan</contactLastName>
+        <contactFirstName>Sean</contactFirstName>
+        <phone>61-9-3844-6555</phone>
+        <addressLine1>7 Allen Street</addressLine1>
+        <city>Glen Waverly</city>
+        <country>Australia</country>
+        <salesRepEmployeeNumber>1611</salesRepEmployeeNumber>
+        <creditLimit>60300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-10</paymentDate>
+      <amount>35505.63</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="LL427009">
+      <customer customerNumber="473">
+        <customerName>Frau da Collezione</customerName>
+        <contactLastName>Ricotti</contactLastName>
+        <contactFirstName>Franco</contactFirstName>
+        <phone>+39 022515555</phone>
+        <addressLine1>20093 Cologno Monzese</addressLine1>
+        <city>Milan</city>
+        <country>Italy</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>34800.00</creditLimit>
+      </customer>
+      <paymentDate>2004-02-17</paymentDate>
+      <amount>7612.06</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PC688499">
+      <customer customerNumber="473">
+        <customerName>Frau da Collezione</customerName>
+        <contactLastName>Ricotti</contactLastName>
+        <contactFirstName>Franco</contactFirstName>
+        <phone>+39 022515555</phone>
+        <addressLine1>20093 Cologno Monzese</addressLine1>
+        <city>Milan</city>
+        <country>Italy</country>
+        <salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
+        <creditLimit>34800.00</creditLimit>
+      </customer>
+      <paymentDate>2003-10-27</paymentDate>
+      <amount>17746.26</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JP113227">
+      <customer customerNumber="475">
+        <customerName>West Coast Collectables Co.</customerName>
+        <contactLastName>Thompson</contactLastName>
+        <contactFirstName>Steve</contactFirstName>
+        <phone>3105553722</phone>
+        <addressLine1>3675 Furth Circle</addressLine1>
+        <city>Burbank</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>55400.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-09</paymentDate>
+      <amount>7678.25</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PB951268">
+      <customer customerNumber="475">
+        <customerName>West Coast Collectables Co.</customerName>
+        <contactLastName>Thompson</contactLastName>
+        <contactFirstName>Steve</contactFirstName>
+        <phone>3105553722</phone>
+        <addressLine1>3675 Furth Circle</addressLine1>
+        <city>Burbank</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1166</salesRepEmployeeNumber>
+        <creditLimit>55400.00</creditLimit>
+      </customer>
+      <paymentDate>2004-02-13</paymentDate>
+      <amount>36070.47</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="GK294076">
+      <customer customerNumber="484">
+        <customerName>Iberia Gift Imports, Corp.</customerName>
+        <contactLastName>Roel</contactLastName>
+        <contactFirstName>José Pedro </contactFirstName>
+        <phone>(95) 555 82 82</phone>
+        <addressLine1>C/ Romero, 33</addressLine1>
+        <city>Sevilla</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>65700.00</creditLimit>
+      </customer>
+      <paymentDate>2004-10-26</paymentDate>
+      <amount>3474.66</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JH546765">
+      <customer customerNumber="484">
+        <customerName>Iberia Gift Imports, Corp.</customerName>
+        <contactLastName>Roel</contactLastName>
+        <contactFirstName>José Pedro </contactFirstName>
+        <phone>(95) 555 82 82</phone>
+        <addressLine1>C/ Romero, 33</addressLine1>
+        <city>Sevilla</city>
+        <country>Spain</country>
+        <salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
+        <creditLimit>65700.00</creditLimit>
+      </customer>
+      <paymentDate>2003-11-29</paymentDate>
+      <amount>47513.19</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BL66528">
+      <customer customerNumber="486">
+        <customerName>Motor Mint Distributors Inc.</customerName>
+        <contactLastName>Salazar</contactLastName>
+        <contactFirstName>Rosa</contactFirstName>
+        <phone>2155559857</phone>
+        <addressLine1>11328 Douglas Av.</addressLine1>
+        <city>Philadelphia</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>72600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-04-14</paymentDate>
+      <amount>5899.38</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="HS86661">
+      <customer customerNumber="486">
+        <customerName>Motor Mint Distributors Inc.</customerName>
+        <contactLastName>Salazar</contactLastName>
+        <contactFirstName>Rosa</contactFirstName>
+        <phone>2155559857</phone>
+        <addressLine1>11328 Douglas Av.</addressLine1>
+        <city>Philadelphia</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>72600.00</creditLimit>
+      </customer>
+      <paymentDate>2004-11-23</paymentDate>
+      <amount>45994.07</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="JB117768">
+      <customer customerNumber="486">
+        <customerName>Motor Mint Distributors Inc.</customerName>
+        <contactLastName>Salazar</contactLastName>
+        <contactFirstName>Rosa</contactFirstName>
+        <phone>2155559857</phone>
+        <addressLine1>11328 Douglas Av.</addressLine1>
+        <city>Philadelphia</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1323</salesRepEmployeeNumber>
+        <creditLimit>72600.00</creditLimit>
+      </customer>
+      <paymentDate>2003-03-20</paymentDate>
+      <amount>25833.14</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="AH612904">
+      <customer customerNumber="487">
+        <customerName>Signal Collectibles Ltd.</customerName>
+        <contactLastName>Taylor</contactLastName>
+        <contactFirstName>Sue</contactFirstName>
+        <phone>4155554312</phone>
+        <addressLine1>2793 Furth Circle</addressLine1>
+        <city>Brisbane</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>60300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-09-28</paymentDate>
+      <amount>29997.09</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PT550181">
+      <customer customerNumber="487">
+        <customerName>Signal Collectibles Ltd.</customerName>
+        <contactLastName>Taylor</contactLastName>
+        <contactFirstName>Sue</contactFirstName>
+        <phone>4155554312</phone>
+        <addressLine1>2793 Furth Circle</addressLine1>
+        <city>Brisbane</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1165</salesRepEmployeeNumber>
+        <creditLimit>60300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-02-29</paymentDate>
+      <amount>12573.28</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="OC773849">
+      <customer customerNumber="489">
+        <customerName>Double Decker Gift Stores, Ltd</customerName>
+        <contactLastName>Smith</contactLastName>
+        <contactFirstName>Thomas </contactFirstName>
+        <phone>(171) 555-7555</phone>
+        <addressLine1>120 Hanover Sq.</addressLine1>
+        <city>London</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>43300.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-04</paymentDate>
+      <amount>22275.73</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="PO860906">
+      <customer customerNumber="489">
+        <customerName>Double Decker Gift Stores, Ltd</customerName>
+        <contactLastName>Smith</contactLastName>
+        <contactFirstName>Thomas </contactFirstName>
+        <phone>(171) 555-7555</phone>
+        <addressLine1>120 Hanover Sq.</addressLine1>
+        <city>London</city>
+        <country>UK</country>
+        <salesRepEmployeeNumber>1501</salesRepEmployeeNumber>
+        <creditLimit>43300.00</creditLimit>
+      </customer>
+      <paymentDate>2004-01-31</paymentDate>
+      <amount>7310.42</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="BH167026">
+      <customer customerNumber="495">
+        <customerName>Diecast Collectables</customerName>
+        <contactLastName>Franco</contactLastName>
+        <contactFirstName>Valarie</contactFirstName>
+        <phone>6175552555</phone>
+        <addressLine1>6251 Ingle Ln.</addressLine1>
+        <city>Boston</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>85100.00</creditLimit>
+      </customer>
+      <paymentDate>2003-12-26</paymentDate>
+      <amount>59265.14</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="FN155234">
+      <customer customerNumber="495">
+        <customerName>Diecast Collectables</customerName>
+        <contactLastName>Franco</contactLastName>
+        <contactFirstName>Valarie</contactFirstName>
+        <phone>6175552555</phone>
+        <addressLine1>6251 Ingle Ln.</addressLine1>
+        <city>Boston</city>
+        <country>USA</country>
+        <salesRepEmployeeNumber>1188</salesRepEmployeeNumber>
+        <creditLimit>85100.00</creditLimit>
+      </customer>
+      <paymentDate>2004-05-14</paymentDate>
+      <amount>6276.60</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="EU531600">
+      <customer customerNumber="496">
+        <customerName>Kelly's Gift Shop</customerName>
+        <contactLastName>Snowden</contactLastName>
+        <contactFirstName>Tony</contactFirstName>
+        <phone>+64 9 5555500</phone>
+        <addressLine1>Arenales 1938 3'A'</addressLine1>
+        <city>Auckland  </city>
+        <country>New Zealand</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>110000.00</creditLimit>
+      </customer>
+      <paymentDate>2005-05-25</paymentDate>
+      <amount>30253.75</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MB342426">
+      <customer customerNumber="496">
+        <customerName>Kelly's Gift Shop</customerName>
+        <contactLastName>Snowden</contactLastName>
+        <contactFirstName>Tony</contactFirstName>
+        <phone>+64 9 5555500</phone>
+        <addressLine1>Arenales 1938 3'A'</addressLine1>
+        <city>Auckland  </city>
+        <country>New Zealand</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>110000.00</creditLimit>
+      </customer>
+      <paymentDate>2003-07-16</paymentDate>
+      <amount>32077.44</amount>
+    </check>
+  </payment>
+  <payment>
+    <check number="MN89921">
+      <customer customerNumber="496">
+        <customerName>Kelly's Gift Shop</customerName>
+        <contactLastName>Snowden</contactLastName>
+        <contactFirstName>Tony</contactFirstName>
+        <phone>+64 9 5555500</phone>
+        <addressLine1>Arenales 1938 3'A'</addressLine1>
+        <city>Auckland  </city>
+        <country>New Zealand</country>
+        <salesRepEmployeeNumber>1612</salesRepEmployeeNumber>
+        <creditLimit>110000.00</creditLimit>
+      </customer>
+      <paymentDate>2004-12-31</paymentDate>
+      <amount>52166.00</amount>
+    </check>
+  </payment>
+</payments>
