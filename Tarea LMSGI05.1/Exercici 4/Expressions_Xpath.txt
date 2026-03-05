@@ -1,0 +1,20 @@
+/* 4.1. De quants pagaments tenim informació? */
+count(//payment)
+/* 4.2. Quins són els números de xec associats al client amb customerNumber="103"? */
+//payment[@customerNumber="103"]/@number
+/* 4.3. Quina és la ciutat dels clients amb una quantitat (amount) inferior a 1500 i  límit de crèdit superior a 1500 ? */
+//payment[amount < 1500 and customer/creditLimit > 1500]/customer/city/text()
+/* 4.4. Quin és el balanç disponible (amount) dels xecs dels clients que viuen a "Nantes"? */
+//check[customer/city="Nantes"]/amount/text()
+/* 4.5. Quina són les dates dels xecs associats als clients que viuen a "Japan" i tenen un límit de crèdit superior a 1000? */
+//check[customer/country="Japan" and customer/creditLimit > 1000]/paymentDate/text()
+/* 4.6. Quin és el pagament (amount) més alt realitzat pels clients amb salesRepEmployeeNumber="1370"? */
+max(//check[customer/salesRepEmployeeNumber="1370"]/amount)
+/* 4.7. Quin és l'import mitjà (amount) dels pagaments realitzats amb data anterior al 1 de gener de 2004 pels clients de la branca amb salesRepEmployeeNumber="1370"? */
+//check[customer/salesRepEmployeeNumber="1370" and paymentDate < "2004-01-01"]/ amount/text()
+/* 4.8. Quin és el nom del client (customerName) associat al xec amb l'import (amount) més baix? */
+//check[amount = min(//amount)]/customer/customerName/text()
+/* 4.9. Quin és el client (customerName) associat a l'últim xec processat el 2004? */
+(//check[paymentDate = max(//check[starts-with(paymentDate, '2004')]/paymentDate) ]/customer/customerName/text())[last()]
+/* 4.10. Retorna una cadena de caràcters amb la direcció completa del client (customerName, addressLine1, city, country) dels xecs associats a clients amb un límit de crèdit superior a 1000. Fes que només retorni el primer element de cada node trobat. */
+concat('Client: ', (//check[customer/creditLimit > 1000]/customer/customerName)[1], ', Adreça: ', (//check[customer/creditLimit > 1000]/customer/addressLine1)[1], ', ', (//check[customer/creditLimit > 1000]/customer/city)[1], ', ', (//check[customer/creditLimit > 1000]/customer/country)[1])
